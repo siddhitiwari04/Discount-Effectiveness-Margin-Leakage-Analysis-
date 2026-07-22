@@ -1,61 +1,86 @@
+# Superstore Discount & Margin Analysis
 
-# Discount Effectiveness & Margin Leakage Analysis
+End-to-end analysis of the Global Superstore dataset — from raw data cleaning to SQL-based margin analysis, Excel elasticity modeling, and a Power BI dashboard — focused on one question: **is discounting actually helping or hurting profitability?**
 
-Professional analysis of promotional discounts and their impact on revenue, margin, and ROI using the Global Superstore dataset (2011–2015).
+## Project Structure
 
-## Project Overview
-
-This project evaluates whether discounts drive profitable volume or instead erode margins. It includes SQL queries, a Python analysis notebook that computes price elasticity and discount ROI by sub-category, a pre-rendered dashboard HTML, and the supporting cleaned transaction dataset.
-
-## Key Files
-
-- `cleaned_transactions.csv` — Primary cleaned transaction dataset used for analysis.
-- `discount_effectiveness_python.ipynb` — Main Python notebook: loads data, computes per-transaction margin, calculates elasticity and discount ROI, produces charts, and exports `python_elasticity_roi.csv` to `sql_outputs/`.
-- `discount_effectiveness_dashboard.html` — Static dashboard (HTML + CSS) illustrating executive findings, sub-category deep dives, and a product watchlist.
-- `discount_analysis_queries.sql` / `analysis_queries.sql` / `discount_analysis_queries.txt` — Parametrized SQL queries used to reproduce the core analyses (Q1–Q5): revenue & margin by category, over-discounted sub-categories, month-over-month volume, product risk labelling, and rolling averages.
-- `sql_outputs/python_elasticity_roi.csv` — CSV exported by the Python notebook containing elasticity and discount ROI per sub-category.
-- Supporting CSVs: `q1_category_margin.csv`, `q2_subcategory_discount.csv`, `q3_monthly_volume.csv`, `q4_product_risk.csv`, `q5_rolliing_avg.csv` — precomputed query outputs for convenience.
-- `elasticity_roi_chart.png` — Visualization exported from the notebook.
-
-## Summary of Findings (from dashboard)
-
-- Discounted transactions show substantially lower margins (dashboard: ~42% lower margin vs full price).
-- Some sub-categories (Labels, Paper, Accessories) show positive discount ROI and relatively high elasticity — discounts are profitable there.
-- Categories such as Tables, Bookcases, and Binders show deep discounts with negative ROI and represent margin leakage.
-- The analysis produces a product watchlist of SKUs that are high risk (high discount + low/negative margin).
-
-## How to Reproduce Locally
-
-Prerequisites
-
-- Python 3.8+ with: `pandas`, `numpy`, `matplotlib`, `seaborn`, `jupyter` (for the notebook).
-- A SQL environment (optional) for the provided `.sql` files.
-
-Steps
-
-1. Open and run the notebook: `discount_effectiveness_python.ipynb` (the notebook expects `cleaned_transactions.csv` in the repository root). Run all cells to generate `sql_outputs/python_elasticity_roi.csv` and `elasticity_roi_chart.png`.
-2. To reproduce SQL analyses, run the queries in `discount_analysis_queries.sql` (or `analysis_queries.sql`) against a database containing the `transactions` table (the SQL assumes a `discount_analysis` schema/database).
-3. Open `discount_effectiveness_dashboard.html` in a browser to view the static presentation of findings.
-
-Example: installing Python dependencies quickly
-
-```bash
-python -m pip install pandas numpy matplotlib seaborn jupyter
+```
+├── Data cleaning, feature engineering n analysis/
+│   ├── SuperStoreOrders.csv          # Raw source data
+│   ├── super_store_orders.ipynb      # Data cleaning & feature engineering (Python/Pandas)
+│   ├── superstore_updated.csv        # Cleaned dataset with engineered features
+│   ├── cleaned_transactions.csv      # Final cleaned transactions table (used for SQL)
+│   └── discount_margin_analysis.xlsx # Excel elasticity, breakeven & recommendations
+│
+├── SQL Queries and Answers/
+│   ├── discount_analysis_queries.sql # 5 SQL queries (margin, discount, trend, risk)
+│   ├── q1_category_margin.csv
+│   ├── q2_subcategory_discount.csv
+│   ├── q3_monthly_volume.csv
+│   ├── q4_product_risk.csv
+│   └── q5_rolliing_avg.csv
+│
+└── Power BI Dashboard/
+    └── Screenshot ....png             # Dashboard screenshot
 ```
 
-## Notes & Methodology
+## 1. Data Cleaning & Feature Engineering (Python)
 
-- Elasticity: estimated as the percent change in average quantity divided by percent change in average price between discounted and full-price transactions per sub-category.
-- Discount ROI: compares incremental profit from extra units sold under discounting to margin given up on baseline units (see `discount_effectiveness_python.ipynb` for the exact implementation).
-- SQL queries (Q1–Q5) are documented with purpose comments at the top of `discount_analysis_queries.sql`.
+Using `super_store_orders.ipynb`:
+- Loaded raw `SuperStoreOrders.csv` and inspected structure/data types
+- Cleaned `sales`, `profit`, and `discount` columns (removed comma separators, converted to numeric)
+- Engineered two new features:
+  - **`unit_price`** = sales / quantity
+  - **`unit_cost`** = (sales − profit) / quantity
+- Exported the cleaned, feature-enriched dataset as `superstore_updated.csv` / `cleaned_transactions.csv`
 
-## Outputs
+## 2. SQL Analysis
 
-- `sql_outputs/python_elasticity_roi.csv` — final per-sub-category metrics (elasticity, discount ROI) produced by the notebook.
-- `elasticity_roi_chart.png` — saved charts used in the dashboard.
+Queries in `discount_analysis_queries.sql`, run against the cleaned transactions table:
 
-## Next steps & suggestions
+| Query | Purpose |
+|---|---|
+| **Q1 – Category Margin** | Compares margin % for discounted vs. full-price transactions, by category |
+| **Q2 – Sub-Category Discount** | Flags sub-categories with high average discount but thin margins |
+| **Q3 – Monthly Volume** | Checks whether discount months actually drove more sales volume (month-over-month) |
+| **Q4 – Product Risk Labeling** | Tags products as Healthy / Moderate / Watch / High Risk based on discount level vs. margin |
+| **Q5 – Rolling 30-Day Average** | Smooths daily sales to reveal real trend vs. short-term spikes |
 
-- Parameterize and wrap notebook logic into a script or small module for scheduled runs.
-- Convert the static HTML into an interactive dashboard (Dash/Streamlit) to enable filters and drilldowns.
-- Add unit tests for calculation functions (elasticity, ROI) if extracting to a library.
+## 3. Excel Analysis (`discount_margin_analysis.xlsx`)
+
+Three-sheet workbook:
+- **Elasticity** – Price elasticity of demand for products sold at both full price and discount (Tables vs. Copiers)
+- **Breakeven** – Breakeven discount % calculator (List Price vs. Cost) compared against actual discount given, with a verdict per product
+- **Recommendations** – Business recommendations synthesizing the SQL + Excel findings
+
+## Key Business Insights
+
+- **Discounting is eroding margin overall.** Full-price transactions earn ~24–26% margin across every category; every category flips to *negative* margin once discounted.
+- **Furniture / Tables is the worst offender.** –25.15% margin at a 38.33% average discount. Breakeven analysis confirms products like the Lesro Computer Table are discounted (56%) well past their breakeven point (~32%).
+- **Technology / Copiers is the exception.** +7.37% margin even at ~19.5% average discount — there's cushion to safely maintain or slightly increase discounting here.
+- **Regional discipline varies.** West Region hits its 15% margin target almost exactly and can serve as the governance benchmark; South Region falls well short (8.77% vs. 12% target), pointing to weaker discount controls.
+- **Discount tiers show a near-linear profit decline** — average profit per order drops from ~$44.58 (no discount) to ~$35.01 (low discount) to **–$135.72** (high discount, >40%).
+
+**Recommendation:** Introduce a company-wide discount ceiling tied to each product's breakeven threshold, with mandatory manager approval for discounts above ~40%, especially in Furniture and Office Supplies.
+
+## 4. Power BI Dashboard
+
+📊 *Add your Power BI dashboard screenshot below:*
+
+<!-- ![Power BI Dashboard](Power%20BI%20Dashboard/Screenshot%202026-07-22%20144139.png) -->
+![alt text](<Screenshot 2026-07-22 144139.png>)
+
+
+
+## 5. Excel Analysis Screenshot & Insights
+
+
+![alt text](<Screenshot 2026-07-23 010725.png>)
+![alt text](<Screenshot 2026-07-23 010741.png>)
+![alt text](<Screenshot 2026-07-23 010755.png>)
+
+## Tools Used
+- **Python (Pandas, NumPy)** – data cleaning & feature engineering
+- **SQL** – margin, discount, and trend analysis
+- **Excel** – elasticity & breakeven modeling
+- **Power BI** – interactive dashboard & visualization
