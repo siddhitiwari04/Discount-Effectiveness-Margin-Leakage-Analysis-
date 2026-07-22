@@ -1,0 +1,4085 @@
+category,sale_date,daily_qty,rolling_30day_avg
+Furniture,2011-01-01,5,5.00
+Furniture,2011-01-03,16,10.50
+Furniture,2011-01-04,7,9.33
+Furniture,2011-01-05,1,7.25
+Furniture,2011-01-06,3,6.40
+Furniture,2011-01-07,11,7.17
+Furniture,2011-01-08,15,8.29
+Furniture,2011-01-10,3,7.63
+Furniture,2011-01-11,23,9.33
+Furniture,2011-01-12,12,9.60
+Furniture,2011-01-14,15,10.09
+Furniture,2011-01-15,10,10.08
+Furniture,2011-01-17,6,9.77
+Furniture,2011-01-19,2,9.21
+Furniture,2011-01-20,12,9.40
+Furniture,2011-01-21,23,10.25
+Furniture,2011-01-22,15,10.53
+Furniture,2011-01-23,7,10.33
+Furniture,2011-01-24,7,10.16
+Furniture,2011-01-25,1,9.70
+Furniture,2011-01-26,18,10.10
+Furniture,2011-01-27,10,10.09
+Furniture,2011-01-28,3,9.78
+Furniture,2011-01-29,4,9.54
+Furniture,2011-01-30,2,9.24
+Furniture,2011-01-31,15,9.46
+Furniture,2011-02-01,8,9.41
+Furniture,2011-02-02,18,9.71
+Furniture,2011-02-04,2,9.45
+Furniture,2011-02-05,3,9.23
+Furniture,2011-02-08,3,9.17
+Furniture,2011-02-09,25,9.47
+Furniture,2011-02-10,16,9.77
+Furniture,2011-02-11,2,9.80
+Furniture,2011-02-12,14,10.17
+Furniture,2011-02-13,2,9.87
+Furniture,2011-02-14,7,9.60
+Furniture,2011-02-15,17,10.07
+Furniture,2011-02-16,25,10.13
+Furniture,2011-02-17,5,9.90
+Furniture,2011-02-18,3,9.50
+Furniture,2011-02-19,5,9.33
+Furniture,2011-02-21,13,9.57
+Furniture,2011-02-22,3,9.60
+Furniture,2011-02-23,14,9.67
+Furniture,2011-02-24,5,9.07
+Furniture,2011-02-25,3,8.67
+Furniture,2011-02-26,20,9.10
+Furniture,2011-02-28,17,9.43
+Furniture,2011-03-01,48,11.00
+Furniture,2011-03-02,18,11.00
+Furniture,2011-03-03,26,11.53
+Furniture,2011-03-07,10,11.77
+Furniture,2011-03-08,16,12.17
+Furniture,2011-03-09,6,12.30
+Furniture,2011-03-10,13,12.23
+Furniture,2011-03-11,10,12.30
+Furniture,2011-03-12,8,11.97
+Furniture,2011-03-14,6,12.10
+Furniture,2011-03-15,8,12.27
+Furniture,2011-03-16,3,12.27
+Furniture,2011-03-17,14,11.90
+Furniture,2011-03-18,21,12.07
+Furniture,2011-03-19,6,12.20
+Furniture,2011-03-21,26,12.60
+Furniture,2011-03-22,9,12.83
+Furniture,2011-03-23,14,13.07
+Furniture,2011-03-24,4,12.63
+Furniture,2011-03-25,10,12.13
+Furniture,2011-03-28,12,12.37
+Furniture,2011-03-29,18,12.87
+Furniture,2011-03-30,28,13.63
+Furniture,2011-03-31,23,13.97
+Furniture,2011-04-01,10,14.20
+Furniture,2011-04-02,2,13.80
+Furniture,2011-04-04,15,14.13
+Furniture,2011-04-05,7,14.27
+Furniture,2011-04-06,19,14.23
+Furniture,2011-04-07,8,13.93
+Furniture,2011-04-08,14,12.80
+Furniture,2011-04-11,5,12.37
+Furniture,2011-04-12,8,11.77
+Furniture,2011-04-13,10,11.77
+Furniture,2011-04-14,4,11.37
+Furniture,2011-04-15,17,11.73
+Furniture,2011-04-16,9,11.60
+Furniture,2011-04-18,12,11.67
+Furniture,2011-04-19,29,12.37
+Furniture,2011-04-20,18,12.77
+Furniture,2011-04-21,19,13.13
+Furniture,2011-04-22,33,14.13
+Furniture,2011-04-23,11,14.03
+Furniture,2011-04-25,19,13.97
+Furniture,2011-04-26,7,14.00
+Furniture,2011-04-27,21,13.83
+Furniture,2011-04-28,10,13.87
+Furniture,2011-04-29,10,13.73
+Furniture,2011-04-30,19,14.23
+Furniture,2011-05-02,20,14.57
+Furniture,2011-05-03,7,14.40
+Furniture,2011-05-04,30,14.80
+Furniture,2011-05-05,16,14.40
+Furniture,2011-05-06,25,14.47
+Furniture,2011-05-07,7,14.37
+Furniture,2011-05-08,3,14.40
+Furniture,2011-05-09,17,14.47
+Furniture,2011-05-10,15,14.73
+Furniture,2011-05-11,16,14.63
+Furniture,2011-05-12,28,15.30
+Furniture,2011-05-13,12,15.23
+Furniture,2011-05-14,13,15.50
+Furniture,2011-05-16,5,15.40
+Furniture,2011-05-17,1,15.10
+Furniture,2011-05-18,27,15.87
+Furniture,2011-05-19,10,15.63
+Furniture,2011-05-20,13,15.77
+Furniture,2011-05-21,28,16.30
+Furniture,2011-05-23,7,15.57
+Furniture,2011-05-24,6,15.17
+Furniture,2011-05-25,8,14.80
+Furniture,2011-05-26,10,14.03
+Furniture,2011-05-27,24,14.47
+Furniture,2011-05-28,3,13.93
+Furniture,2011-05-30,15,14.20
+Furniture,2011-05-31,12,13.90
+Furniture,2011-06-01,31,14.60
+Furniture,2011-06-02,38,15.53
+Furniture,2011-06-03,32,15.97
+Furniture,2011-06-04,7,15.53
+Furniture,2011-06-05,9,15.60
+Furniture,2011-06-06,14,15.07
+Furniture,2011-06-07,29,15.50
+Furniture,2011-06-08,13,15.10
+Furniture,2011-06-09,40,16.20
+Furniture,2011-06-10,18,16.70
+Furniture,2011-06-11,18,16.73
+Furniture,2011-06-12,4,16.37
+Furniture,2011-06-13,46,17.37
+Furniture,2011-06-14,31,17.47
+Furniture,2011-06-15,29,18.03
+Furniture,2011-06-16,19,18.23
+Furniture,2011-06-17,35,19.23
+Furniture,2011-06-18,25,20.03
+Furniture,2011-06-20,30,20.13
+Furniture,2011-06-21,15,20.30
+Furniture,2011-06-22,59,21.83
+Furniture,2011-06-23,9,21.20
+Furniture,2011-06-24,22,21.70
+Furniture,2011-06-25,24,22.30
+Furniture,2011-06-26,2,22.10
+Furniture,2011-06-27,39,23.07
+Furniture,2011-06-28,30,23.27
+Furniture,2011-06-29,14,23.63
+Furniture,2011-06-30,15,23.63
+Furniture,2011-07-01,14,23.70
+Furniture,2011-07-04,3,22.77
+Furniture,2011-07-05,13,21.93
+Furniture,2011-07-06,11,21.23
+Furniture,2011-07-07,11,21.37
+Furniture,2011-07-08,6,21.27
+Furniture,2011-07-09,12,21.20
+Furniture,2011-07-11,20,20.90
+Furniture,2011-07-12,18,21.07
+Furniture,2011-07-13,4,19.87
+Furniture,2011-07-14,10,19.60
+Furniture,2011-07-16,20,19.67
+Furniture,2011-07-18,10,19.87
+Furniture,2011-07-19,7,18.57
+Furniture,2011-07-20,25,18.37
+Furniture,2011-07-21,29,18.37
+Furniture,2011-07-22,9,18.03
+Furniture,2011-07-25,8,17.13
+Furniture,2011-07-26,29,17.27
+Furniture,2011-07-27,11,16.63
+Furniture,2011-07-28,17,16.70
+Furniture,2011-07-29,16,15.27
+Furniture,2011-07-30,8,15.23
+Furniture,2011-07-31,4,14.63
+Furniture,2011-08-01,20,14.50
+Furniture,2011-08-02,21,15.13
+Furniture,2011-08-03,39,15.13
+Furniture,2011-08-04,32,15.20
+Furniture,2011-08-05,25,15.57
+Furniture,2011-08-06,1,15.10
+Furniture,2011-08-07,2,14.70
+Furniture,2011-08-08,30,15.60
+Furniture,2011-08-09,14,15.63
+Furniture,2011-08-10,9,15.57
+Furniture,2011-08-11,13,15.63
+Furniture,2011-08-12,16,15.97
+Furniture,2011-08-13,11,15.93
+Furniture,2011-08-15,26,16.13
+Furniture,2011-08-16,31,16.57
+Furniture,2011-08-17,32,17.50
+Furniture,2011-08-18,11,17.53
+Furniture,2011-08-19,39,18.17
+Furniture,2011-08-20,27,18.73
+Furniture,2011-08-21,16,19.03
+Furniture,2011-08-23,21,18.90
+Furniture,2011-08-24,16,18.47
+Furniture,2011-08-25,39,19.47
+Furniture,2011-08-26,19,19.83
+Furniture,2011-08-27,17,19.43
+Furniture,2011-08-29,17,19.63
+Furniture,2011-08-30,18,19.67
+Furniture,2011-08-31,21,19.83
+Furniture,2011-09-01,6,19.77
+Furniture,2011-09-02,61,21.67
+Furniture,2011-09-03,3,21.10
+Furniture,2011-09-05,17,20.97
+Furniture,2011-09-06,32,20.73
+Furniture,2011-09-07,20,20.33
+Furniture,2011-09-08,60,21.50
+Furniture,2011-09-09,48,23.07
+Furniture,2011-09-10,20,23.67
+Furniture,2011-09-11,3,22.77
+Furniture,2011-09-12,36,23.50
+Furniture,2011-09-13,20,23.87
+Furniture,2011-09-14,38,24.70
+Furniture,2011-09-15,48,25.77
+Furniture,2011-09-16,15,25.90
+Furniture,2011-09-17,11,25.40
+Furniture,2011-09-18,3,24.47
+Furniture,2011-09-19,24,24.20
+Furniture,2011-09-20,33,24.93
+Furniture,2011-09-21,36,24.83
+Furniture,2011-09-22,18,24.53
+Furniture,2011-09-23,30,25.00
+Furniture,2011-09-24,13,24.73
+Furniture,2011-09-25,17,24.77
+Furniture,2011-09-26,17,24.03
+Furniture,2011-09-27,31,24.43
+Furniture,2011-09-28,31,24.90
+Furniture,2011-09-29,36,25.53
+Furniture,2011-09-30,36,26.13
+Furniture,2011-10-03,21,26.13
+Furniture,2011-10-04,32,27.00
+Furniture,2011-10-05,10,25.30
+Furniture,2011-10-06,48,26.80
+Furniture,2011-10-07,29,27.20
+Furniture,2011-10-08,12,26.53
+Furniture,2011-10-10,20,26.53
+Furniture,2011-10-11,21,25.23
+Furniture,2011-10-12,13,24.07
+Furniture,2011-10-13,19,24.03
+Furniture,2011-10-14,19,24.57
+Furniture,2011-10-15,15,23.87
+Furniture,2011-10-17,30,24.20
+Furniture,2011-10-18,36,24.13
+Furniture,2011-10-19,29,23.50
+Furniture,2011-10-20,32,24.07
+Furniture,2011-10-21,33,24.80
+Furniture,2011-10-22,37,25.93
+Furniture,2011-10-25,21,25.83
+Furniture,2011-10-26,21,25.43
+Furniture,2011-10-27,46,25.77
+Furniture,2011-10-28,20,25.83
+Furniture,2011-10-29,12,25.23
+Furniture,2011-10-31,36,26.00
+Furniture,2011-11-01,25,26.27
+Furniture,2011-11-02,36,26.90
+Furniture,2011-11-03,57,27.77
+Furniture,2011-11-04,54,28.53
+Furniture,2011-11-05,24,28.13
+Furniture,2011-11-06,2,27.00
+Furniture,2011-11-07,50,27.97
+Furniture,2011-11-08,17,27.47
+Furniture,2011-11-09,31,28.17
+Furniture,2011-11-10,24,27.37
+Furniture,2011-11-11,35,27.57
+Furniture,2011-11-12,15,27.67
+Furniture,2011-11-14,21,27.70
+Furniture,2011-11-15,24,27.80
+Furniture,2011-11-16,21,28.07
+Furniture,2011-11-17,25,28.27
+Furniture,2011-11-18,76,30.17
+Furniture,2011-11-19,11,30.03
+Furniture,2011-11-21,9,29.33
+Furniture,2011-11-22,12,28.53
+Furniture,2011-11-23,39,28.87
+Furniture,2011-11-24,38,29.07
+Furniture,2011-11-25,46,29.50
+Furniture,2011-11-26,11,28.63
+Furniture,2011-11-27,5,28.10
+Furniture,2011-11-28,35,28.57
+Furniture,2011-11-29,13,27.47
+Furniture,2011-11-30,15,27.30
+Furniture,2011-12-01,58,28.83
+Furniture,2011-12-02,41,29.00
+Furniture,2011-12-03,13,28.60
+Furniture,2011-12-04,1,27.43
+Furniture,2011-12-05,13,25.97
+Furniture,2011-12-06,31,25.20
+Furniture,2011-12-07,36,25.60
+Furniture,2011-12-08,63,27.63
+Furniture,2011-12-09,41,27.33
+Furniture,2011-12-10,23,27.53
+Furniture,2011-12-11,1,26.53
+Furniture,2011-12-12,48,27.33
+Furniture,2011-12-13,47,27.73
+Furniture,2011-12-14,22,27.97
+Furniture,2011-12-15,50,28.93
+Furniture,2011-12-16,51,29.83
+Furniture,2011-12-17,23,29.90
+Furniture,2011-12-19,34,30.20
+Furniture,2011-12-20,60,29.67
+Furniture,2011-12-21,44,30.77
+Furniture,2011-12-22,13,30.90
+Furniture,2011-12-23,37,31.73
+Furniture,2011-12-24,29,31.40
+Furniture,2011-12-25,2,30.20
+Furniture,2011-12-26,57,30.57
+Furniture,2011-12-27,45,31.70
+Furniture,2011-12-28,39,32.83
+Furniture,2011-12-29,49,33.30
+Furniture,2011-12-30,10,33.20
+Furniture,2011-12-31,40,34.03
+Furniture,2012-01-02,16,32.63
+Furniture,2012-01-03,22,32.00
+Furniture,2012-01-04,19,32.20
+Furniture,2012-01-05,15,32.67
+Furniture,2012-01-07,13,32.67
+Furniture,2012-01-08,9,31.93
+Furniture,2012-01-09,14,31.20
+Furniture,2012-01-10,14,29.57
+Furniture,2012-01-11,27,29.10
+Furniture,2012-01-12,21,29.03
+Furniture,2012-01-13,25,29.83
+Furniture,2012-01-14,2,28.30
+Furniture,2012-01-16,16,27.27
+Furniture,2012-01-17,11,26.90
+Furniture,2012-01-18,20,25.90
+Furniture,2012-01-19,23,24.97
+Furniture,2012-01-20,13,24.63
+Furniture,2012-01-21,4,23.63
+Furniture,2012-01-22,4,21.77
+Furniture,2012-01-23,10,20.63
+Furniture,2012-01-24,5,20.37
+Furniture,2012-01-25,9,19.43
+Furniture,2012-01-26,9,18.77
+Furniture,2012-01-27,30,19.70
+Furniture,2012-01-28,21,18.50
+Furniture,2012-01-29,8,17.27
+Furniture,2012-01-30,13,16.40
+Furniture,2012-01-31,3,14.87
+Furniture,2012-02-01,4,14.67
+Furniture,2012-02-02,16,13.87
+Furniture,2012-02-03,10,13.67
+Furniture,2012-02-04,13,13.37
+Furniture,2012-02-06,29,13.70
+Furniture,2012-02-07,14,13.67
+Furniture,2012-02-08,4,13.37
+Furniture,2012-02-09,7,13.30
+Furniture,2012-02-10,14,13.30
+Furniture,2012-02-13,28,13.77
+Furniture,2012-02-14,9,13.17
+Furniture,2012-02-15,6,12.67
+Furniture,2012-02-16,8,12.10
+Furniture,2012-02-17,1,12.07
+Furniture,2012-02-18,13,11.97
+Furniture,2012-02-19,4,11.73
+Furniture,2012-02-20,29,12.03
+Furniture,2012-02-21,10,11.60
+Furniture,2012-02-22,21,11.87
+Furniture,2012-02-23,5,11.90
+Furniture,2012-02-24,2,11.83
+Furniture,2012-02-25,10,11.83
+Furniture,2012-02-27,17,12.23
+Furniture,2012-02-28,13,12.37
+Furniture,2012-02-29,3,12.17
+Furniture,2012-03-01,18,11.77
+Furniture,2012-03-02,21,11.77
+Furniture,2012-03-03,5,11.67
+Furniture,2012-03-05,29,12.20
+Furniture,2012-03-06,14,12.57
+Furniture,2012-03-07,14,12.90
+Furniture,2012-03-08,27,13.27
+Furniture,2012-03-09,15,13.43
+Furniture,2012-03-10,3,13.10
+Furniture,2012-03-11,4,12.27
+Furniture,2012-03-12,25,12.63
+Furniture,2012-03-13,22,13.23
+Furniture,2012-03-14,10,13.33
+Furniture,2012-03-15,6,13.07
+Furniture,2012-03-16,27,13.03
+Furniture,2012-03-17,2,12.80
+Furniture,2012-03-19,36,13.80
+Furniture,2012-03-20,29,14.50
+Furniture,2012-03-21,15,14.97
+Furniture,2012-03-22,25,15.37
+Furniture,2012-03-23,10,15.57
+Furniture,2012-03-24,10,14.93
+Furniture,2012-03-26,18,15.20
+Furniture,2012-03-27,30,15.50
+Furniture,2012-03-28,7,15.57
+Furniture,2012-03-29,23,16.27
+Furniture,2012-03-30,4,16.07
+Furniture,2012-03-31,8,15.77
+Furniture,2012-04-02,4,15.47
+Furniture,2012-04-03,15,15.87
+Furniture,2012-04-04,2,15.33
+Furniture,2012-04-05,15,15.13
+Furniture,2012-04-06,27,15.87
+Furniture,2012-04-07,3,15.00
+Furniture,2012-04-09,18,15.13
+Furniture,2012-04-10,14,15.13
+Furniture,2012-04-11,19,14.87
+Furniture,2012-04-12,8,14.63
+Furniture,2012-04-13,17,15.10
+Furniture,2012-04-14,17,15.53
+Furniture,2012-04-16,36,15.90
+Furniture,2012-04-17,4,15.30
+Furniture,2012-04-18,18,15.57
+Furniture,2012-04-19,18,15.97
+Furniture,2012-04-20,20,15.73
+Furniture,2012-04-21,9,15.97
+Furniture,2012-04-22,6,14.97
+Furniture,2012-04-23,3,14.10
+Furniture,2012-04-24,28,14.53
+Furniture,2012-04-25,42,15.10
+Furniture,2012-04-26,30,15.77
+Furniture,2012-04-27,4,15.57
+Furniture,2012-04-28,13,15.40
+Furniture,2012-04-30,32,15.47
+Furniture,2012-05-01,13,15.67
+Furniture,2012-05-02,4,15.03
+Furniture,2012-05-03,25,15.73
+Furniture,2012-05-04,13,15.90
+Furniture,2012-05-05,5,15.93
+Furniture,2012-05-07,24,16.23
+Furniture,2012-05-08,37,17.40
+Furniture,2012-05-09,24,17.70
+Furniture,2012-05-10,20,17.47
+Furniture,2012-05-11,20,18.03
+Furniture,2012-05-12,13,17.87
+Furniture,2012-05-14,26,18.27
+Furniture,2012-05-15,30,18.63
+Furniture,2012-05-16,20,19.03
+Furniture,2012-05-17,14,18.93
+Furniture,2012-05-18,9,18.67
+Furniture,2012-05-20,4,17.60
+Furniture,2012-05-21,15,17.97
+Furniture,2012-05-22,9,17.67
+Furniture,2012-05-23,30,18.07
+Furniture,2012-05-24,22,18.13
+Furniture,2012-05-25,18,18.43
+Furniture,2012-05-26,18,18.83
+Furniture,2012-05-28,19,19.37
+Furniture,2012-05-29,11,18.80
+Furniture,2012-05-30,4,17.53
+Furniture,2012-05-31,41,17.90
+Furniture,2012-06-01,39,19.07
+Furniture,2012-06-02,21,19.33
+Furniture,2012-06-03,4,18.40
+Furniture,2012-06-04,15,18.47
+Furniture,2012-06-05,19,18.97
+Furniture,2012-06-06,44,19.60
+Furniture,2012-06-07,18,19.77
+Furniture,2012-06-08,41,20.97
+Furniture,2012-06-09,16,20.70
+Furniture,2012-06-10,8,19.73
+Furniture,2012-06-11,39,20.23
+Furniture,2012-06-12,28,20.50
+Furniture,2012-06-13,18,20.43
+Furniture,2012-06-14,22,20.73
+Furniture,2012-06-15,17,20.43
+Furniture,2012-06-16,21,20.13
+Furniture,2012-06-17,3,19.57
+Furniture,2012-06-18,39,20.40
+Furniture,2012-06-19,27,21.00
+Furniture,2012-06-20,51,22.57
+Furniture,2012-06-21,27,22.97
+Furniture,2012-06-22,27,23.57
+Furniture,2012-06-23,10,22.90
+Furniture,2012-06-24,2,22.23
+Furniture,2012-06-25,53,23.40
+Furniture,2012-06-26,15,23.30
+Furniture,2012-06-27,20,23.33
+Furniture,2012-06-28,14,23.43
+Furniture,2012-06-29,46,24.83
+Furniture,2012-06-30,14,23.93
+Furniture,2012-07-01,7,22.87
+Furniture,2012-07-02,22,22.90
+Furniture,2012-07-03,34,23.90
+Furniture,2012-07-04,5,23.57
+Furniture,2012-07-05,14,23.40
+Furniture,2012-07-06,40,23.27
+Furniture,2012-07-07,9,22.97
+Furniture,2012-07-09,12,22.00
+Furniture,2012-07-10,9,21.77
+Furniture,2012-07-11,45,23.00
+Furniture,2012-07-12,22,22.43
+Furniture,2012-07-13,15,22.00
+Furniture,2012-07-14,16,21.93
+Furniture,2012-07-16,17,21.77
+Furniture,2012-07-17,19,21.83
+Furniture,2012-07-18,15,21.63
+Furniture,2012-07-19,7,21.77
+Furniture,2012-07-20,18,21.07
+Furniture,2012-07-21,2,20.23
+Furniture,2012-07-23,4,18.67
+Furniture,2012-07-24,11,18.13
+Furniture,2012-07-25,13,17.67
+Furniture,2012-07-26,27,18.23
+Furniture,2012-07-27,12,18.57
+Furniture,2012-07-28,1,16.83
+Furniture,2012-07-30,34,17.47
+Furniture,2012-07-31,36,18.00
+Furniture,2012-08-01,16,18.07
+Furniture,2012-08-02,55,18.37
+Furniture,2012-08-03,45,19.40
+Furniture,2012-08-04,1,19.20
+Furniture,2012-08-05,8,18.73
+Furniture,2012-08-06,20,18.27
+Furniture,2012-08-07,30,19.10
+Furniture,2012-08-08,12,19.03
+Furniture,2012-08-09,38,18.97
+Furniture,2012-08-10,18,19.27
+Furniture,2012-08-11,18,19.47
+Furniture,2012-08-13,25,20.00
+Furniture,2012-08-14,9,18.80
+Furniture,2012-08-15,19,18.70
+Furniture,2012-08-16,23,18.97
+Furniture,2012-08-17,38,19.70
+Furniture,2012-08-18,8,19.40
+Furniture,2012-08-20,15,19.27
+Furniture,2012-08-21,17,19.33
+Furniture,2012-08-22,29,20.07
+Furniture,2012-08-23,35,20.63
+Furniture,2012-08-24,34,21.70
+Furniture,2012-08-25,8,21.83
+Furniture,2012-08-26,9,21.77
+Furniture,2012-08-27,25,22.17
+Furniture,2012-08-28,30,22.27
+Furniture,2012-08-29,23,22.63
+Furniture,2012-08-30,10,22.93
+Furniture,2012-08-31,29,22.77
+Furniture,2012-09-01,18,22.17
+Furniture,2012-09-02,2,21.70
+Furniture,2012-09-03,30,20.87
+Furniture,2012-09-04,20,20.03
+Furniture,2012-09-05,35,21.17
+Furniture,2012-09-06,56,22.77
+Furniture,2012-09-07,34,23.23
+Furniture,2012-09-08,13,22.67
+Furniture,2012-09-09,12,22.67
+Furniture,2012-09-10,37,22.63
+Furniture,2012-09-11,30,23.03
+Furniture,2012-09-12,25,23.27
+Furniture,2012-09-13,57,24.33
+Furniture,2012-09-14,31,25.07
+Furniture,2012-09-15,43,25.87
+Furniture,2012-09-16,2,25.17
+Furniture,2012-09-17,31,24.93
+Furniture,2012-09-18,30,25.67
+Furniture,2012-09-19,36,26.37
+Furniture,2012-09-20,25,26.63
+Furniture,2012-09-21,38,26.93
+Furniture,2012-09-22,13,26.20
+Furniture,2012-09-24,32,26.13
+Furniture,2012-09-25,39,27.17
+Furniture,2012-09-26,51,28.57
+Furniture,2012-09-27,23,28.50
+Furniture,2012-09-28,39,28.80
+Furniture,2012-09-29,1,28.07
+Furniture,2012-10-01,29,28.70
+Furniture,2012-10-02,34,28.87
+Furniture,2012-10-03,29,29.23
+Furniture,2012-10-04,21,29.87
+Furniture,2012-10-05,16,29.40
+Furniture,2012-10-06,7,28.97
+Furniture,2012-10-08,25,28.63
+Furniture,2012-10-09,12,27.17
+Furniture,2012-10-10,29,27.00
+Furniture,2012-10-11,30,27.57
+Furniture,2012-10-12,20,27.83
+Furniture,2012-10-13,12,27.00
+Furniture,2012-10-14,2,26.07
+Furniture,2012-10-15,70,27.57
+Furniture,2012-10-16,7,25.90
+Furniture,2012-10-17,28,25.80
+Furniture,2012-10-18,7,24.60
+Furniture,2012-10-19,25,25.37
+Furniture,2012-10-20,32,25.40
+Furniture,2012-10-22,26,25.27
+Furniture,2012-10-23,33,25.17
+Furniture,2012-10-24,38,25.60
+Furniture,2012-10-25,36,25.53
+Furniture,2012-10-26,6,25.30
+Furniture,2012-10-27,16,24.77
+Furniture,2012-10-28,13,23.90
+Furniture,2012-10-29,25,23.03
+Furniture,2012-10-30,14,22.73
+Furniture,2012-10-31,15,21.93
+Furniture,2012-11-01,25,22.73
+Furniture,2012-11-02,82,24.50
+Furniture,2012-11-03,20,24.03
+Furniture,2012-11-04,10,23.40
+Furniture,2012-11-05,56,24.57
+Furniture,2012-11-06,9,24.33
+Furniture,2012-11-07,41,25.47
+Furniture,2012-11-08,68,26.90
+Furniture,2012-11-09,27,27.40
+Furniture,2012-11-10,20,27.10
+Furniture,2012-11-11,1,26.13
+Furniture,2012-11-12,51,27.17
+Furniture,2012-11-13,97,30.00
+Furniture,2012-11-14,49,31.57
+Furniture,2012-11-15,29,30.20
+Furniture,2012-11-16,70,32.30
+Furniture,2012-11-17,36,32.57
+Furniture,2012-11-18,6,32.53
+Furniture,2012-11-19,30,32.70
+Furniture,2012-11-20,56,33.50
+Furniture,2012-11-21,54,34.43
+Furniture,2012-11-22,26,34.20
+Furniture,2012-11-23,40,34.27
+Furniture,2012-11-24,19,33.70
+Furniture,2012-11-25,2,33.57
+Furniture,2012-11-26,31,34.07
+Furniture,2012-11-27,48,35.23
+Furniture,2012-11-28,53,36.17
+Furniture,2012-11-29,37,36.93
+Furniture,2012-11-30,45,37.93
+Furniture,2012-12-01,36,38.30
+Furniture,2012-12-02,3,35.67
+Furniture,2012-12-03,57,36.90
+Furniture,2012-12-04,41,37.93
+Furniture,2012-12-05,31,37.10
+Furniture,2012-12-06,13,37.23
+Furniture,2012-12-07,16,36.40
+Furniture,2012-12-08,2,34.20
+Furniture,2012-12-09,4,33.43
+Furniture,2012-12-10,20,33.43
+Furniture,2012-12-11,55,35.23
+Furniture,2012-12-12,20,34.20
+Furniture,2012-12-13,9,31.27
+Furniture,2012-12-14,31,30.67
+Furniture,2012-12-15,17,30.27
+Furniture,2012-12-16,4,28.07
+Furniture,2012-12-17,52,28.60
+Furniture,2012-12-18,26,29.27
+Furniture,2012-12-19,31,29.30
+Furniture,2012-12-20,27,28.33
+Furniture,2012-12-21,33,27.63
+Furniture,2012-12-22,25,27.60
+Furniture,2012-12-23,2,26.33
+Furniture,2012-12-24,42,27.10
+Furniture,2012-12-25,71,29.40
+Furniture,2012-12-26,43,29.80
+Furniture,2012-12-27,31,29.23
+Furniture,2012-12-28,32,28.53
+Furniture,2012-12-30,3,27.40
+Furniture,2012-12-31,20,26.57
+Furniture,2013-01-01,24,26.17
+Furniture,2013-01-02,22,26.80
+Furniture,2013-01-03,14,25.37
+Furniture,2013-01-04,29,24.97
+Furniture,2013-01-05,23,24.70
+Furniture,2013-01-07,24,25.07
+Furniture,2013-01-08,20,25.20
+Furniture,2013-01-09,13,25.57
+Furniture,2013-01-10,16,25.97
+Furniture,2013-01-11,37,26.53
+Furniture,2013-01-12,15,25.20
+Furniture,2013-01-14,12,24.93
+Furniture,2013-01-15,11,25.00
+Furniture,2013-01-16,19,24.60
+Furniture,2013-01-17,16,24.57
+Furniture,2013-01-18,29,25.40
+Furniture,2013-01-19,13,24.10
+Furniture,2013-01-20,7,23.47
+Furniture,2013-01-21,29,23.40
+Furniture,2013-01-22,33,23.60
+Furniture,2013-01-23,23,23.27
+Furniture,2013-01-24,2,22.50
+Furniture,2013-01-25,28,23.37
+Furniture,2013-01-26,3,22.07
+Furniture,2013-01-27,4,19.83
+Furniture,2013-01-28,16,18.93
+Furniture,2013-01-29,20,18.57
+Furniture,2013-01-30,29,18.47
+Furniture,2013-01-31,13,18.80
+Furniture,2013-02-01,22,18.87
+Furniture,2013-02-02,10,18.40
+Furniture,2013-02-03,4,17.80
+Furniture,2013-02-04,11,17.70
+Furniture,2013-02-05,41,18.10
+Furniture,2013-02-06,24,18.13
+Furniture,2013-02-07,29,18.30
+Furniture,2013-02-08,26,18.50
+Furniture,2013-02-09,10,18.40
+Furniture,2013-02-10,6,18.07
+Furniture,2013-02-11,15,17.33
+Furniture,2013-02-12,25,17.67
+Furniture,2013-02-13,6,17.47
+Furniture,2013-02-14,9,17.40
+Furniture,2013-02-15,17,17.33
+Furniture,2013-02-16,25,17.63
+Furniture,2013-02-18,21,17.37
+Furniture,2013-02-19,22,17.67
+Furniture,2013-02-20,20,18.10
+Furniture,2013-02-21,17,17.70
+Furniture,2013-02-22,20,17.27
+Furniture,2013-02-23,2,16.57
+Furniture,2013-02-25,23,17.27
+Furniture,2013-02-26,27,17.23
+Furniture,2013-02-27,16,17.67
+Furniture,2013-02-28,5,17.70
+Furniture,2013-03-01,17,17.73
+Furniture,2013-03-02,12,17.47
+Furniture,2013-03-03,8,16.77
+Furniture,2013-03-04,45,17.83
+Furniture,2013-03-05,34,18.23
+Furniture,2013-03-06,8,18.17
+Furniture,2013-03-07,15,18.53
+Furniture,2013-03-08,18,18.77
+Furniture,2013-03-09,12,17.80
+Furniture,2013-03-10,5,17.17
+Furniture,2013-03-11,37,17.43
+Furniture,2013-03-12,25,17.40
+Furniture,2013-03-13,35,18.23
+Furniture,2013-03-14,13,18.47
+Furniture,2013-03-15,35,19.13
+Furniture,2013-03-16,19,18.93
+Furniture,2013-03-18,15,19.23
+Furniture,2013-03-19,18,19.53
+Furniture,2013-03-20,17,19.53
+Furniture,2013-03-21,23,19.47
+Furniture,2013-03-22,11,19.13
+Furniture,2013-03-23,33,19.50
+Furniture,2013-03-25,18,19.43
+Furniture,2013-03-26,20,19.53
+Furniture,2013-03-27,13,19.30
+Furniture,2013-03-28,13,19.67
+Furniture,2013-03-29,41,20.27
+Furniture,2013-03-30,22,20.10
+Furniture,2013-04-01,21,20.27
+Furniture,2013-04-02,28,21.03
+Furniture,2013-04-03,26,21.33
+Furniture,2013-04-04,8,21.20
+Furniture,2013-04-05,22,21.67
+Furniture,2013-04-06,22,20.90
+Furniture,2013-04-07,1,19.80
+Furniture,2013-04-08,37,20.77
+Furniture,2013-04-09,33,21.37
+Furniture,2013-04-10,46,22.30
+Furniture,2013-04-11,2,21.97
+Furniture,2013-04-12,14,22.27
+Furniture,2013-04-13,14,21.50
+Furniture,2013-04-15,15,21.17
+Furniture,2013-04-16,7,20.23
+Furniture,2013-04-17,17,20.37
+Furniture,2013-04-18,34,20.33
+Furniture,2013-04-19,30,20.70
+Furniture,2013-04-20,7,20.43
+Furniture,2013-04-22,8,20.10
+Furniture,2013-04-23,18,20.13
+Furniture,2013-04-24,15,19.87
+Furniture,2013-04-25,41,20.87
+Furniture,2013-04-26,17,20.33
+Furniture,2013-04-27,6,19.93
+Furniture,2013-04-29,20,19.93
+Furniture,2013-04-30,20,20.17
+Furniture,2013-05-01,36,20.93
+Furniture,2013-05-02,12,19.97
+Furniture,2013-05-03,32,20.30
+Furniture,2013-05-04,25,20.43
+Furniture,2013-05-06,20,20.17
+Furniture,2013-05-07,40,20.63
+Furniture,2013-05-08,40,21.70
+Furniture,2013-05-09,14,21.43
+Furniture,2013-05-10,28,21.63
+Furniture,2013-05-11,19,22.23
+Furniture,2013-05-13,17,21.57
+Furniture,2013-05-14,28,21.40
+Furniture,2013-05-15,35,21.03
+Furniture,2013-05-16,43,22.40
+Furniture,2013-05-17,48,23.53
+Furniture,2013-05-18,10,23.40
+Furniture,2013-05-20,25,23.73
+Furniture,2013-05-21,25,24.33
+Furniture,2013-05-22,21,24.47
+Furniture,2013-05-23,16,23.87
+Furniture,2013-05-24,49,24.50
+Furniture,2013-05-25,11,24.63
+Furniture,2013-05-26,4,24.50
+Furniture,2013-05-27,27,24.80
+Furniture,2013-05-28,34,25.43
+Furniture,2013-05-29,27,24.97
+Furniture,2013-05-30,8,24.67
+Furniture,2013-05-31,51,26.17
+Furniture,2013-06-01,28,26.43
+Furniture,2013-06-03,24,26.57
+Furniture,2013-06-04,44,26.83
+Furniture,2013-06-05,42,27.83
+Furniture,2013-06-06,27,27.67
+Furniture,2013-06-07,34,27.97
+Furniture,2013-06-08,45,28.80
+Furniture,2013-06-09,4,27.60
+Furniture,2013-06-10,45,27.77
+Furniture,2013-06-11,46,28.83
+Furniture,2013-06-12,48,29.50
+Furniture,2013-06-13,47,30.43
+Furniture,2013-06-14,41,31.23
+Furniture,2013-06-15,38,31.57
+Furniture,2013-06-17,52,32.13
+Furniture,2013-06-18,48,32.30
+Furniture,2013-06-19,18,31.30
+Furniture,2013-06-20,4,31.10
+Furniture,2013-06-21,35,31.43
+Furniture,2013-06-22,6,30.80
+Furniture,2013-06-23,3,30.20
+Furniture,2013-06-24,38,30.93
+Furniture,2013-06-25,40,30.63
+Furniture,2013-06-26,84,33.07
+Furniture,2013-06-27,62,35.00
+Furniture,2013-06-28,38,35.37
+Furniture,2013-06-29,10,34.57
+Furniture,2013-06-30,12,34.07
+Furniture,2013-07-01,17,34.37
+Furniture,2013-07-02,25,33.50
+Furniture,2013-07-03,28,33.50
+Furniture,2013-07-04,15,33.20
+Furniture,2013-07-05,27,32.63
+Furniture,2013-07-06,22,31.97
+Furniture,2013-07-08,49,32.70
+Furniture,2013-07-09,13,32.00
+Furniture,2013-07-10,14,30.97
+Furniture,2013-07-11,35,32.00
+Furniture,2013-07-12,44,31.97
+Furniture,2013-07-13,10,30.77
+Furniture,2013-07-14,8,29.43
+Furniture,2013-07-15,34,29.00
+Furniture,2013-07-16,11,28.00
+Furniture,2013-07-17,25,27.57
+Furniture,2013-07-18,10,26.17
+Furniture,2013-07-19,16,25.10
+Furniture,2013-07-20,24,25.30
+Furniture,2013-07-22,47,26.73
+Furniture,2013-07-23,44,27.03
+Furniture,2013-07-24,14,27.30
+Furniture,2013-07-25,49,28.83
+Furniture,2013-07-26,35,28.73
+Furniture,2013-07-27,8,27.67
+Furniture,2013-07-28,2,24.93
+Furniture,2013-07-29,18,23.47
+Furniture,2013-07-30,5,22.37
+Furniture,2013-07-31,8,22.30
+Furniture,2013-08-01,57,23.80
+Furniture,2013-08-02,20,23.90
+Furniture,2013-08-03,14,23.53
+Furniture,2013-08-04,19,23.23
+Furniture,2013-08-05,22,23.47
+Furniture,2013-08-06,19,23.20
+Furniture,2013-08-07,37,23.70
+Furniture,2013-08-08,27,22.97
+Furniture,2013-08-09,28,23.47
+Furniture,2013-08-10,23,23.77
+Furniture,2013-08-12,27,23.50
+Furniture,2013-08-13,48,23.63
+Furniture,2013-08-14,17,23.87
+Furniture,2013-08-15,74,26.07
+Furniture,2013-08-16,66,27.13
+Furniture,2013-08-17,7,27.00
+Furniture,2013-08-19,57,28.07
+Furniture,2013-08-20,18,28.33
+Furniture,2013-08-21,35,28.97
+Furniture,2013-08-22,50,29.83
+Furniture,2013-08-23,24,29.07
+Furniture,2013-08-24,36,28.80
+Furniture,2013-08-26,14,28.80
+Furniture,2013-08-27,55,29.00
+Furniture,2013-08-28,28,28.77
+Furniture,2013-08-29,30,29.50
+Furniture,2013-08-30,20,30.10
+Furniture,2013-08-31,14,29.97
+Furniture,2013-09-01,1,29.83
+Furniture,2013-09-02,27,30.47
+Furniture,2013-09-03,64,30.70
+Furniture,2013-09-04,38,31.30
+Furniture,2013-09-05,34,31.97
+Furniture,2013-09-06,56,33.20
+Furniture,2013-09-07,8,32.73
+Furniture,2013-09-08,3,32.20
+Furniture,2013-09-09,35,32.13
+Furniture,2013-09-10,49,32.87
+Furniture,2013-09-11,44,33.40
+Furniture,2013-09-12,52,34.37
+Furniture,2013-09-13,45,34.97
+Furniture,2013-09-14,60,35.37
+Furniture,2013-09-15,8,35.07
+Furniture,2013-09-16,30,33.60
+Furniture,2013-09-17,54,33.20
+Furniture,2013-09-18,30,33.97
+Furniture,2013-09-19,77,34.63
+Furniture,2013-09-20,76,36.57
+Furniture,2013-09-21,36,36.60
+Furniture,2013-09-23,24,35.73
+Furniture,2013-09-24,36,36.13
+Furniture,2013-09-25,70,37.27
+Furniture,2013-09-26,47,38.37
+Furniture,2013-09-27,42,37.93
+Furniture,2013-09-28,32,38.07
+Furniture,2013-09-29,6,37.27
+Furniture,2013-09-30,85,39.43
+Furniture,2013-10-01,13,39.40
+Furniture,2013-10-02,42,40.77
+Furniture,2013-10-03,9,40.17
+Furniture,2013-10-04,55,39.87
+Furniture,2013-10-05,36,39.80
+Furniture,2013-10-07,27,39.57
+Furniture,2013-10-08,23,38.47
+Furniture,2013-10-09,47,39.77
+Furniture,2013-10-10,23,40.43
+Furniture,2013-10-11,31,40.30
+Furniture,2013-10-12,5,38.83
+Furniture,2013-10-13,6,37.57
+Furniture,2013-10-14,76,38.37
+Furniture,2013-10-15,37,38.10
+Furniture,2013-10-16,35,37.27
+Furniture,2013-10-17,29,37.97
+Furniture,2013-10-18,29,37.93
+Furniture,2013-10-19,21,36.83
+Furniture,2013-10-21,31,36.87
+Furniture,2013-10-22,37,35.53
+Furniture,2013-10-23,60,35.00
+Furniture,2013-10-24,20,34.47
+Furniture,2013-10-25,17,34.23
+Furniture,2013-10-27,4,33.17
+Furniture,2013-10-28,28,31.77
+Furniture,2013-10-29,45,31.70
+Furniture,2013-10-30,32,31.37
+Furniture,2013-10-31,48,31.90
+Furniture,2013-11-01,47,33.27
+Furniture,2013-11-02,13,30.87
+Furniture,2013-11-04,52,32.17
+Furniture,2013-11-05,61,32.80
+Furniture,2013-11-06,48,34.10
+Furniture,2013-11-07,50,33.93
+Furniture,2013-11-08,28,33.67
+Furniture,2013-11-09,27,33.67
+Furniture,2013-11-11,62,34.97
+Furniture,2013-11-12,35,34.57
+Furniture,2013-11-13,68,36.07
+Furniture,2013-11-14,21,35.73
+Furniture,2013-11-15,51,37.27
+Furniture,2013-11-16,20,37.73
+Furniture,2013-11-17,6,35.40
+Furniture,2013-11-18,60,36.17
+Furniture,2013-11-19,36,36.20
+Furniture,2013-11-20,21,35.93
+Furniture,2013-11-21,26,35.83
+Furniture,2013-11-22,39,36.43
+Furniture,2013-11-23,27,36.30
+Furniture,2013-11-24,11,35.43
+Furniture,2013-11-25,54,35.23
+Furniture,2013-11-26,50,36.23
+Furniture,2013-11-27,33,36.77
+Furniture,2013-11-28,75,39.13
+Furniture,2013-11-29,41,39.57
+Furniture,2013-11-30,22,38.80
+Furniture,2013-12-01,3,37.83
+Furniture,2013-12-02,51,37.93
+Furniture,2013-12-03,82,39.10
+Furniture,2013-12-04,51,40.37
+Furniture,2013-12-05,29,39.60
+Furniture,2013-12-06,45,39.07
+Furniture,2013-12-07,3,37.57
+Furniture,2013-12-08,3,36.00
+Furniture,2013-12-09,53,36.83
+Furniture,2013-12-10,75,38.43
+Furniture,2013-12-11,66,38.57
+Furniture,2013-12-12,73,39.83
+Furniture,2013-12-13,42,38.97
+Furniture,2013-12-14,19,38.90
+Furniture,2013-12-15,15,37.70
+Furniture,2013-12-16,38,38.30
+Furniture,2013-12-17,27,39.00
+Furniture,2013-12-18,64,39.13
+Furniture,2013-12-19,47,39.50
+Furniture,2013-12-20,78,41.40
+Furniture,2013-12-21,23,41.30
+Furniture,2013-12-23,61,42.03
+Furniture,2013-12-24,36,42.33
+Furniture,2013-12-25,38,43.23
+Furniture,2013-12-26,70,43.77
+Furniture,2013-12-27,40,43.43
+Furniture,2013-12-28,26,43.20
+Furniture,2013-12-30,47,42.27
+Furniture,2013-12-31,17,41.47
+Furniture,2014-01-01,1,40.77
+Furniture,2014-01-02,25,41.50
+Furniture,2014-01-03,29,40.77
+Furniture,2014-01-04,10,38.37
+Furniture,2014-01-06,29,37.63
+Furniture,2014-01-07,5,36.83
+Furniture,2014-01-08,24,36.13
+Furniture,2014-01-09,37,37.27
+Furniture,2014-01-10,1,37.20
+Furniture,2014-01-11,11,35.80
+Furniture,2014-01-13,13,33.73
+Furniture,2014-01-14,28,32.47
+Furniture,2014-01-15,19,30.67
+Furniture,2014-01-16,22,30.00
+Furniture,2014-01-17,40,30.70
+Furniture,2014-01-18,22,30.93
+Furniture,2014-01-20,16,30.20
+Furniture,2014-01-21,19,29.93
+Furniture,2014-01-22,27,28.70
+Furniture,2014-01-23,8,27.40
+Furniture,2014-01-24,19,25.43
+Furniture,2014-01-25,15,25.17
+Furniture,2014-01-26,9,23.43
+Furniture,2014-01-27,5,22.40
+Furniture,2014-01-28,43,22.57
+Furniture,2014-01-29,28,21.17
+Furniture,2014-01-30,17,20.40
+Furniture,2014-01-31,38,20.80
+Furniture,2014-02-03,8,19.50
+Furniture,2014-02-04,27,19.83
+Furniture,2014-02-05,13,20.23
+Furniture,2014-02-06,20,20.07
+Furniture,2014-02-07,25,19.93
+Furniture,2014-02-10,34,20.73
+Furniture,2014-02-11,25,20.60
+Furniture,2014-02-12,21,21.13
+Furniture,2014-02-13,33,21.43
+Furniture,2014-02-14,36,21.40
+Furniture,2014-02-15,23,22.13
+Furniture,2014-02-17,32,22.83
+Furniture,2014-02-18,27,23.30
+Furniture,2014-02-19,20,23.03
+Furniture,2014-02-20,21,23.10
+Furniture,2014-02-21,41,23.73
+Furniture,2014-02-22,2,22.47
+Furniture,2014-02-23,1,21.77
+Furniture,2014-02-24,14,21.70
+Furniture,2014-02-25,6,21.27
+Furniture,2014-02-26,21,21.07
+Furniture,2014-02-27,9,21.10
+Furniture,2014-02-28,18,21.07
+Furniture,2014-03-01,5,20.73
+Furniture,2014-03-03,9,20.73
+Furniture,2014-03-04,29,21.53
+Furniture,2014-03-05,40,21.43
+Furniture,2014-03-06,27,21.40
+Furniture,2014-03-07,17,21.40
+Furniture,2014-03-08,18,20.73
+Furniture,2014-03-10,5,20.63
+Furniture,2014-03-11,52,21.47
+Furniture,2014-03-12,44,22.50
+Furniture,2014-03-13,24,22.63
+Furniture,2014-03-14,45,23.30
+Furniture,2014-03-15,31,23.20
+Furniture,2014-03-17,37,23.60
+Furniture,2014-03-18,26,23.77
+Furniture,2014-03-19,32,23.73
+Furniture,2014-03-20,27,23.43
+Furniture,2014-03-21,18,23.27
+Furniture,2014-03-22,41,23.57
+Furniture,2014-03-24,39,23.97
+Furniture,2014-03-25,29,24.27
+Furniture,2014-03-26,21,24.27
+Furniture,2014-03-27,40,24.23
+Furniture,2014-03-28,35,25.33
+Furniture,2014-03-29,8,25.57
+Furniture,2014-03-31,41,26.47
+Furniture,2014-04-01,22,27.00
+Furniture,2014-04-02,34,27.43
+Furniture,2014-04-03,28,28.07
+Furniture,2014-04-04,13,27.90
+Furniture,2014-04-05,2,27.80
+Furniture,2014-04-06,2,27.57
+Furniture,2014-04-07,28,27.53
+Furniture,2014-04-08,35,27.37
+Furniture,2014-04-09,38,27.73
+Furniture,2014-04-10,18,27.77
+Furniture,2014-04-11,31,28.20
+Furniture,2014-04-12,5,28.20
+Furniture,2014-04-13,3,26.57
+Furniture,2014-04-14,20,25.77
+Furniture,2014-04-15,51,26.67
+Furniture,2014-04-16,32,26.23
+Furniture,2014-04-17,29,26.17
+Furniture,2014-04-18,27,25.83
+Furniture,2014-04-19,14,25.43
+Furniture,2014-04-20,2,24.43
+Furniture,2014-04-21,59,25.50
+Furniture,2014-04-22,26,25.77
+Furniture,2014-04-23,25,25.23
+Furniture,2014-04-24,52,25.67
+Furniture,2014-04-25,11,25.07
+Furniture,2014-04-26,35,25.53
+Furniture,2014-04-27,1,24.23
+Furniture,2014-04-28,52,24.80
+Furniture,2014-04-29,13,24.97
+Furniture,2014-04-30,24,24.40
+Furniture,2014-05-01,53,25.43
+Furniture,2014-05-02,27,25.20
+Furniture,2014-05-03,3,24.37
+Furniture,2014-05-04,7,24.17
+Furniture,2014-05-05,23,24.87
+Furniture,2014-05-06,15,25.30
+Furniture,2014-05-07,39,25.67
+Furniture,2014-05-08,82,27.23
+Furniture,2014-05-09,45,27.47
+Furniture,2014-05-10,12,27.27
+Furniture,2014-05-11,3,26.33
+Furniture,2014-05-12,19,26.80
+Furniture,2014-05-13,42,28.10
+Furniture,2014-05-14,15,27.93
+Furniture,2014-05-15,33,27.33
+Furniture,2014-05-16,60,28.27
+Furniture,2014-05-17,8,27.57
+Furniture,2014-05-19,48,28.27
+Furniture,2014-05-20,29,28.77
+Furniture,2014-05-21,33,29.80
+Furniture,2014-05-22,15,28.33
+Furniture,2014-05-23,22,28.20
+Furniture,2014-05-24,22,28.10
+Furniture,2014-05-25,6,26.57
+Furniture,2014-05-26,52,27.93
+Furniture,2014-05-27,29,27.73
+Furniture,2014-05-28,23,28.47
+Furniture,2014-05-29,44,28.20
+Furniture,2014-05-30,22,28.50
+Furniture,2014-05-31,26,28.57
+Furniture,2014-06-01,8,27.07
+Furniture,2014-06-02,39,27.47
+Furniture,2014-06-03,31,28.40
+Furniture,2014-06-04,46,29.70
+Furniture,2014-06-05,20,29.60
+Furniture,2014-06-06,50,30.77
+Furniture,2014-06-07,9,29.77
+Furniture,2014-06-09,45,28.53
+Furniture,2014-06-10,46,28.57
+Furniture,2014-06-11,58,30.10
+Furniture,2014-06-12,32,31.07
+Furniture,2014-06-13,49,32.07
+Furniture,2014-06-14,32,31.73
+Furniture,2014-06-16,36,32.43
+Furniture,2014-06-17,39,32.63
+Furniture,2014-06-18,65,32.80
+Furniture,2014-06-19,38,33.80
+Furniture,2014-06-20,44,33.67
+Furniture,2014-06-21,28,33.63
+Furniture,2014-06-22,5,32.70
+Furniture,2014-06-23,75,34.70
+Furniture,2014-06-24,69,36.27
+Furniture,2014-06-25,47,37.10
+Furniture,2014-06-26,49,38.53
+Furniture,2014-06-27,47,38.37
+Furniture,2014-06-28,13,37.83
+Furniture,2014-06-29,3,37.17
+Furniture,2014-06-30,57,37.60
+Furniture,2014-07-01,22,37.60
+Furniture,2014-07-02,28,37.67
+Furniture,2014-07-03,25,38.23
+Furniture,2014-07-04,43,38.37
+Furniture,2014-07-05,25,38.17
+Furniture,2014-07-06,10,36.97
+Furniture,2014-07-07,22,37.03
+Furniture,2014-07-08,13,35.80
+Furniture,2014-07-09,47,37.07
+Furniture,2014-07-10,33,36.67
+Furniture,2014-07-11,23,35.90
+Furniture,2014-07-12,18,34.57
+Furniture,2014-07-14,29,34.47
+Furniture,2014-07-15,11,33.20
+Furniture,2014-07-16,26,33.00
+Furniture,2014-07-17,14,32.27
+Furniture,2014-07-18,34,32.10
+Furniture,2014-07-19,32,31.00
+Furniture,2014-07-21,43,31.17
+Furniture,2014-07-22,35,30.87
+Furniture,2014-07-23,14,30.40
+Furniture,2014-07-24,32,31.30
+Furniture,2014-07-25,5,28.97
+Furniture,2014-07-26,45,28.17
+Furniture,2014-07-27,5,26.77
+Furniture,2014-07-28,19,25.77
+Furniture,2014-07-29,9,24.50
+Furniture,2014-07-30,44,25.53
+Furniture,2014-07-31,21,26.13
+Furniture,2014-08-01,29,25.20
+Furniture,2014-08-02,28,25.40
+Furniture,2014-08-04,43,25.90
+Furniture,2014-08-05,21,25.77
+Furniture,2014-08-06,27,25.23
+Furniture,2014-08-07,62,26.47
+Furniture,2014-08-08,47,27.70
+Furniture,2014-08-09,15,27.47
+Furniture,2014-08-11,14,27.50
+Furniture,2014-08-12,18,26.53
+Furniture,2014-08-13,50,27.10
+Furniture,2014-08-14,28,27.27
+Furniture,2014-08-15,29,27.63
+Furniture,2014-08-16,36,27.87
+Furniture,2014-08-17,3,27.60
+Furniture,2014-08-18,43,28.17
+Furniture,2014-08-19,43,29.13
+Furniture,2014-08-20,38,29.27
+Furniture,2014-08-21,38,29.47
+Furniture,2014-08-22,102,31.43
+Furniture,2014-08-23,10,30.60
+Furniture,2014-08-24,2,30.20
+Furniture,2014-08-25,12,29.53
+Furniture,2014-08-26,62,31.43
+Furniture,2014-08-27,27,30.83
+Furniture,2014-08-28,49,32.30
+Furniture,2014-08-29,54,33.47
+Furniture,2014-08-30,30,34.17
+Furniture,2014-09-01,25,33.53
+Furniture,2014-09-02,56,34.70
+Furniture,2014-09-03,79,36.37
+Furniture,2014-09-04,65,37.60
+Furniture,2014-09-05,61,38.20
+Furniture,2014-09-06,25,38.33
+Furniture,2014-09-07,3,37.53
+Furniture,2014-09-08,73,37.90
+Furniture,2014-09-09,36,37.53
+Furniture,2014-09-10,25,37.87
+Furniture,2014-09-11,47,38.97
+Furniture,2014-09-12,91,41.40
+Furniture,2014-09-13,39,41.03
+Furniture,2014-09-14,4,40.23
+Furniture,2014-09-15,63,41.37
+Furniture,2014-09-16,60,42.17
+Furniture,2014-09-17,95,45.23
+Furniture,2014-09-18,60,45.80
+Furniture,2014-09-19,30,45.37
+Furniture,2014-09-20,23,44.87
+Furniture,2014-09-21,20,44.27
+Furniture,2014-09-22,18,41.47
+Furniture,2014-09-23,66,43.33
+Furniture,2014-09-24,48,44.87
+Furniture,2014-09-25,40,45.80
+Furniture,2014-09-26,87,46.63
+Furniture,2014-09-27,31,46.77
+Furniture,2014-09-28,15,45.63
+Furniture,2014-09-29,40,45.17
+Furniture,2014-09-30,57,46.07
+Furniture,2014-10-01,21,45.93
+Furniture,2014-10-02,51,45.77
+Furniture,2014-10-03,66,45.33
+Furniture,2014-10-04,23,43.93
+Furniture,2014-10-05,5,42.07
+Furniture,2014-10-06,47,42.80
+Furniture,2014-10-07,72,45.10
+Furniture,2014-10-08,29,43.63
+Furniture,2014-10-09,43,43.87
+Furniture,2014-10-10,58,44.97
+Furniture,2014-10-11,25,44.23
+Furniture,2014-10-12,16,41.73
+Furniture,2014-10-13,40,41.77
+Furniture,2014-10-14,32,42.70
+Furniture,2014-10-15,29,41.57
+Furniture,2014-10-16,40,40.90
+Furniture,2014-10-17,77,40.30
+Furniture,2014-10-18,12,38.70
+Furniture,2014-10-19,9,38.00
+Furniture,2014-10-20,36,38.43
+Furniture,2014-10-21,33,38.87
+Furniture,2014-10-22,29,39.23
+Furniture,2014-10-23,32,38.10
+Furniture,2014-10-24,61,38.53
+Furniture,2014-10-25,29,38.17
+Furniture,2014-10-27,31,36.30
+Furniture,2014-10-28,54,37.07
+Furniture,2014-10-29,60,38.57
+Furniture,2014-10-30,25,38.07
+Furniture,2014-10-31,78,38.77
+Furniture,2014-11-01,7,38.30
+Furniture,2014-11-02,14,37.07
+Furniture,2014-11-03,38,36.13
+Furniture,2014-11-04,79,38.00
+Furniture,2014-11-05,48,39.43
+Furniture,2014-11-06,58,39.80
+Furniture,2014-11-07,72,39.80
+Furniture,2014-11-08,46,40.37
+Furniture,2014-11-09,10,39.27
+Furniture,2014-11-10,56,39.20
+Furniture,2014-11-11,38,39.63
+Furniture,2014-11-12,61,41.13
+Furniture,2014-11-13,54,41.60
+Furniture,2014-11-14,59,42.50
+Furniture,2014-11-15,11,41.90
+Furniture,2014-11-16,24,41.37
+Furniture,2014-11-17,72,41.20
+Furniture,2014-11-18,60,42.80
+Furniture,2014-11-19,69,44.80
+Furniture,2014-11-20,92,46.67
+Furniture,2014-11-21,72,47.97
+Furniture,2014-11-22,37,48.23
+Furniture,2014-11-23,6,47.37
+Furniture,2014-11-24,38,46.60
+Furniture,2014-11-25,65,47.80
+Furniture,2014-11-26,56,48.63
+Furniture,2014-11-27,66,49.03
+Furniture,2014-11-28,77,49.60
+Furniture,2014-11-29,45,50.27
+Furniture,2014-11-30,23,48.43
+Furniture,2014-12-01,46,49.73
+Furniture,2014-12-02,59,51.23
+Furniture,2014-12-03,78,52.57
+Furniture,2014-12-04,69,52.23
+Furniture,2014-12-05,48,52.23
+Furniture,2014-12-06,20,50.97
+Furniture,2014-12-07,5,48.73
+Furniture,2014-12-08,36,48.40
+Furniture,2014-12-09,91,51.10
+Furniture,2014-12-10,88,52.17
+Furniture,2014-12-11,72,53.30
+Furniture,2014-12-12,57,53.17
+Furniture,2014-12-13,27,52.27
+Furniture,2014-12-14,15,50.80
+Furniture,2014-12-15,81,53.13
+Furniture,2014-12-16,39,53.63
+Furniture,2014-12-17,45,52.73
+Furniture,2014-12-18,69,53.03
+Furniture,2014-12-19,42,52.13
+Furniture,2014-12-20,42,50.47
+Furniture,2014-12-22,26,48.93
+Furniture,2014-12-23,70,50.03
+Furniture,2014-12-24,37,51.07
+Furniture,2014-12-25,62,51.87
+Furniture,2014-12-26,69,52.00
+Furniture,2014-12-27,24,50.93
+Furniture,2014-12-28,4,48.87
+Furniture,2014-12-29,100,49.63
+Furniture,2014-12-30,80,50.80
+Furniture,2014-12-31,34,51.17
+"Office Supplies",2011-01-01,14,14.00
+"Office Supplies",2011-01-03,21,17.50
+"Office Supplies",2011-01-04,37,24.00
+"Office Supplies",2011-01-05,23,23.75
+"Office Supplies",2011-01-06,19,22.80
+"Office Supplies",2011-01-07,38,25.33
+"Office Supplies",2011-01-08,24,25.14
+"Office Supplies",2011-01-09,20,24.50
+"Office Supplies",2011-01-10,46,26.89
+"Office Supplies",2011-01-11,41,28.30
+"Office Supplies",2011-01-12,19,27.45
+"Office Supplies",2011-01-13,29,27.58
+"Office Supplies",2011-01-14,97,32.92
+"Office Supplies",2011-01-15,25,32.36
+"Office Supplies",2011-01-17,37,32.67
+"Office Supplies",2011-01-18,17,31.69
+"Office Supplies",2011-01-19,28,31.47
+"Office Supplies",2011-01-20,35,31.67
+"Office Supplies",2011-01-21,63,33.32
+"Office Supplies",2011-01-22,28,33.05
+"Office Supplies",2011-01-23,10,31.95
+"Office Supplies",2011-01-24,62,33.32
+"Office Supplies",2011-01-25,41,33.65
+"Office Supplies",2011-01-26,78,35.50
+"Office Supplies",2011-01-27,59,36.44
+"Office Supplies",2011-01-28,16,35.65
+"Office Supplies",2011-01-29,2,34.41
+"Office Supplies",2011-01-30,15,33.71
+"Office Supplies",2011-01-31,53,34.38
+"Office Supplies",2011-02-01,42,34.63
+"Office Supplies",2011-02-02,34,35.30
+"Office Supplies",2011-02-03,17,35.17
+"Office Supplies",2011-02-04,28,34.87
+"Office Supplies",2011-02-05,10,34.43
+"Office Supplies",2011-02-06,1,33.83
+"Office Supplies",2011-02-07,30,33.57
+"Office Supplies",2011-02-08,28,33.70
+"Office Supplies",2011-02-09,45,34.53
+"Office Supplies",2011-02-10,64,35.13
+"Office Supplies",2011-02-11,12,34.17
+"Office Supplies",2011-02-12,16,34.07
+"Office Supplies",2011-02-14,43,34.53
+"Office Supplies",2011-02-15,39,32.60
+"Office Supplies",2011-02-16,28,32.70
+"Office Supplies",2011-02-17,19,32.10
+"Office Supplies",2011-02-18,45,33.03
+"Office Supplies",2011-02-19,5,32.27
+"Office Supplies",2011-02-21,41,32.47
+"Office Supplies",2011-02-22,40,31.70
+"Office Supplies",2011-02-23,13,31.20
+"Office Supplies",2011-02-24,32,31.93
+"Office Supplies",2011-02-25,32,30.93
+"Office Supplies",2011-02-26,16,30.10
+"Office Supplies",2011-02-28,15,28.00
+"Office Supplies",2011-03-01,105,29.53
+"Office Supplies",2011-03-02,21,29.70
+"Office Supplies",2011-03-03,48,31.23
+"Office Supplies",2011-03-04,19,31.37
+"Office Supplies",2011-03-05,17,30.17
+"Office Supplies",2011-03-06,7,29.00
+"Office Supplies",2011-03-07,36,29.07
+"Office Supplies",2011-03-08,41,29.87
+"Office Supplies",2011-03-09,20,29.60
+"Office Supplies",2011-03-10,19,29.90
+"Office Supplies",2011-03-11,64,32.00
+"Office Supplies",2011-03-12,23,31.77
+"Office Supplies",2011-03-14,54,32.63
+"Office Supplies",2011-03-15,44,32.60
+"Office Supplies",2011-03-16,25,31.30
+"Office Supplies",2011-03-17,80,33.57
+"Office Supplies",2011-03-18,50,34.70
+"Office Supplies",2011-03-19,12,33.67
+"Office Supplies",2011-03-21,85,35.20
+"Office Supplies",2011-03-22,38,35.53
+"Office Supplies",2011-03-23,36,36.10
+"Office Supplies",2011-03-24,32,35.67
+"Office Supplies",2011-03-25,51,37.20
+"Office Supplies",2011-03-26,25,36.67
+"Office Supplies",2011-03-27,3,35.43
+"Office Supplies",2011-03-28,53,36.77
+"Office Supplies",2011-03-29,13,36.13
+"Office Supplies",2011-03-30,68,37.33
+"Office Supplies",2011-03-31,47,38.37
+"Office Supplies",2011-04-01,62,39.93
+"Office Supplies",2011-04-02,47,38.00
+"Office Supplies",2011-04-03,17,37.87
+"Office Supplies",2011-04-04,74,38.73
+"Office Supplies",2011-04-05,114,41.90
+"Office Supplies",2011-04-06,48,42.93
+"Office Supplies",2011-04-07,51,44.40
+"Office Supplies",2011-04-08,28,44.13
+"Office Supplies",2011-04-09,17,43.33
+"Office Supplies",2011-04-11,47,44.23
+"Office Supplies",2011-04-12,42,45.00
+"Office Supplies",2011-04-13,73,45.30
+"Office Supplies",2011-04-14,76,47.07
+"Office Supplies",2011-04-15,37,46.50
+"Office Supplies",2011-04-16,35,46.20
+"Office Supplies",2011-04-18,78,47.97
+"Office Supplies",2011-04-19,38,46.57
+"Office Supplies",2011-04-20,29,45.87
+"Office Supplies",2011-04-21,39,46.77
+"Office Supplies",2011-04-22,70,46.27
+"Office Supplies",2011-04-23,16,45.53
+"Office Supplies",2011-04-24,14,44.80
+"Office Supplies",2011-04-25,37,44.97
+"Office Supplies",2011-04-26,32,44.33
+"Office Supplies",2011-04-27,53,45.27
+"Office Supplies",2011-04-28,65,47.33
+"Office Supplies",2011-04-29,46,47.10
+"Office Supplies",2011-04-30,10,47.00
+"Office Supplies",2011-05-02,39,46.03
+"Office Supplies",2011-05-03,74,46.93
+"Office Supplies",2011-05-04,54,46.67
+"Office Supplies",2011-05-05,33,46.20
+"Office Supplies",2011-05-06,57,47.53
+"Office Supplies",2011-05-07,15,45.57
+"Office Supplies",2011-05-09,42,43.17
+"Office Supplies",2011-05-10,83,44.33
+"Office Supplies",2011-05-11,48,44.23
+"Office Supplies",2011-05-12,48,44.90
+"Office Supplies",2011-05-13,32,45.40
+"Office Supplies",2011-05-14,12,44.23
+"Office Supplies",2011-05-16,22,43.57
+"Office Supplies",2011-05-17,21,41.83
+"Office Supplies",2011-05-18,63,41.40
+"Office Supplies",2011-05-19,53,41.93
+"Office Supplies",2011-05-20,42,42.17
+"Office Supplies",2011-05-21,102,42.97
+"Office Supplies",2011-05-22,4,41.83
+"Office Supplies",2011-05-23,51,42.57
+"Office Supplies",2011-05-24,53,43.03
+"Office Supplies",2011-05-25,21,41.40
+"Office Supplies",2011-05-26,66,43.07
+"Office Supplies",2011-05-27,68,44.87
+"Office Supplies",2011-05-28,4,43.77
+"Office Supplies",2011-05-30,46,44.23
+"Office Supplies",2011-05-31,31,43.50
+"Office Supplies",2011-06-01,84,44.13
+"Office Supplies",2011-06-02,73,45.03
+"Office Supplies",2011-06-03,88,47.63
+"Office Supplies",2011-06-04,32,47.40
+"Office Supplies",2011-06-05,5,45.10
+"Office Supplies",2011-06-06,126,47.50
+"Office Supplies",2011-06-07,136,50.93
+"Office Supplies",2011-06-08,56,50.90
+"Office Supplies",2011-06-09,92,53.47
+"Office Supplies",2011-06-10,53,53.83
+"Office Supplies",2011-06-11,30,52.07
+"Office Supplies",2011-06-13,82,53.20
+"Office Supplies",2011-06-14,47,53.17
+"Office Supplies",2011-06-15,66,54.30
+"Office Supplies",2011-06-16,29,54.87
+"Office Supplies",2011-06-17,83,56.90
+"Office Supplies",2011-06-18,27,57.10
+"Office Supplies",2011-06-19,2,55.07
+"Office Supplies",2011-06-20,99,56.60
+"Office Supplies",2011-06-21,76,57.73
+"Office Supplies",2011-06-22,92,57.40
+"Office Supplies",2011-06-23,34,58.40
+"Office Supplies",2011-06-24,62,58.77
+"Office Supplies",2011-06-25,17,57.57
+"Office Supplies",2011-06-26,14,57.33
+"Office Supplies",2011-06-27,78,57.73
+"Office Supplies",2011-06-28,54,57.27
+"Office Supplies",2011-06-29,75,59.63
+"Office Supplies",2011-06-30,90,61.10
+"Office Supplies",2011-07-01,28,61.00
+"Office Supplies",2011-07-02,17,58.77
+"Office Supplies",2011-07-04,55,58.17
+"Office Supplies",2011-07-05,70,57.57
+"Office Supplies",2011-07-06,27,57.40
+"Office Supplies",2011-07-07,19,57.87
+"Office Supplies",2011-07-08,28,54.60
+"Office Supplies",2011-07-09,43,51.50
+"Office Supplies",2011-07-11,56,51.50
+"Office Supplies",2011-07-12,79,51.07
+"Office Supplies",2011-07-13,37,50.53
+"Office Supplies",2011-07-14,33,50.63
+"Office Supplies",2011-07-15,10,48.23
+"Office Supplies",2011-07-16,36,47.87
+"Office Supplies",2011-07-17,18,46.27
+"Office Supplies",2011-07-18,49,46.93
+"Office Supplies",2011-07-19,12,44.57
+"Office Supplies",2011-07-20,81,46.37
+"Office Supplies",2011-07-21,39,47.60
+"Office Supplies",2011-07-22,44,45.77
+"Office Supplies",2011-07-23,46,44.77
+"Office Supplies",2011-07-24,8,41.97
+"Office Supplies",2011-07-25,38,42.10
+"Office Supplies",2011-07-26,48,41.63
+"Office Supplies",2011-07-27,61,43.10
+"Office Supplies",2011-07-28,41,44.00
+"Office Supplies",2011-07-29,35,42.57
+"Office Supplies",2011-07-30,27,41.67
+"Office Supplies",2011-07-31,11,39.53
+"Office Supplies",2011-08-01,66,38.73
+"Office Supplies",2011-08-02,81,40.50
+"Office Supplies",2011-08-03,98,43.20
+"Office Supplies",2011-08-04,112,45.10
+"Office Supplies",2011-08-05,77,45.33
+"Office Supplies",2011-08-06,24,45.23
+"Office Supplies",2011-08-08,59,46.57
+"Office Supplies",2011-08-09,89,48.60
+"Office Supplies",2011-08-10,39,48.47
+"Office Supplies",2011-08-11,79,49.23
+"Office Supplies",2011-08-12,82,49.33
+"Office Supplies",2011-08-13,16,48.63
+"Office Supplies",2011-08-15,81,50.23
+"Office Supplies",2011-08-16,60,51.90
+"Office Supplies",2011-08-17,72,53.10
+"Office Supplies",2011-08-18,69,54.80
+"Office Supplies",2011-08-19,49,54.80
+"Office Supplies",2011-08-20,22,55.13
+"Office Supplies",2011-08-21,24,53.23
+"Office Supplies",2011-08-22,24,52.73
+"Office Supplies",2011-08-23,57,53.17
+"Office Supplies",2011-08-24,100,54.97
+"Office Supplies",2011-08-25,129,59.00
+"Office Supplies",2011-08-26,64,59.87
+"Office Supplies",2011-08-27,29,59.23
+"Office Supplies",2011-08-29,45,58.70
+"Office Supplies",2011-08-30,98,60.60
+"Office Supplies",2011-08-31,72,61.83
+"Office Supplies",2011-09-01,71,63.30
+"Office Supplies",2011-09-02,114,66.73
+"Office Supplies",2011-09-03,21,65.23
+"Office Supplies",2011-09-05,52,64.27
+"Office Supplies",2011-09-06,74,63.47
+"Office Supplies",2011-09-07,100,63.07
+"Office Supplies",2011-09-08,183,66.60
+"Office Supplies",2011-09-09,74,68.27
+"Office Supplies",2011-09-10,23,67.07
+"Office Supplies",2011-09-11,26,64.97
+"Office Supplies",2011-09-12,110,67.33
+"Office Supplies",2011-09-13,115,68.53
+"Office Supplies",2011-09-14,152,70.87
+"Office Supplies",2011-09-15,95,73.50
+"Office Supplies",2011-09-16,22,71.53
+"Office Supplies",2011-09-17,64,71.67
+"Office Supplies",2011-09-18,10,69.60
+"Office Supplies",2011-09-19,71,69.67
+"Office Supplies",2011-09-20,84,70.83
+"Office Supplies",2011-09-21,104,73.57
+"Office Supplies",2011-09-22,72,75.17
+"Office Supplies",2011-09-23,146,79.23
+"Office Supplies",2011-09-24,25,78.17
+"Office Supplies",2011-09-25,20,75.50
+"Office Supplies",2011-09-26,143,75.97
+"Office Supplies",2011-09-27,138,78.43
+"Office Supplies",2011-09-28,82,80.20
+"Office Supplies",2011-09-29,109,82.33
+"Office Supplies",2011-09-30,76,81.60
+"Office Supplies",2011-10-01,22,79.93
+"Office Supplies",2011-10-02,12,77.97
+"Office Supplies",2011-10-03,79,76.80
+"Office Supplies",2011-10-04,67,78.33
+"Office Supplies",2011-10-05,43,78.03
+"Office Supplies",2011-10-06,48,77.17
+"Office Supplies",2011-10-07,101,77.20
+"Office Supplies",2011-10-08,26,71.97
+"Office Supplies",2011-10-09,5,69.67
+"Office Supplies",2011-10-10,69,71.20
+"Office Supplies",2011-10-11,43,71.77
+"Office Supplies",2011-10-12,84,70.90
+"Office Supplies",2011-10-13,104,70.53
+"Office Supplies",2011-10-14,96,68.67
+"Office Supplies",2011-10-15,54,67.30
+"Office Supplies",2011-10-16,9,66.87
+"Office Supplies",2011-10-17,41,66.10
+"Office Supplies",2011-10-18,55,67.60
+"Office Supplies",2011-10-19,97,68.47
+"Office Supplies",2011-10-20,77,68.23
+"Office Supplies",2011-10-21,82,67.50
+"Office Supplies",2011-10-22,38,66.37
+"Office Supplies",2011-10-24,40,62.83
+"Office Supplies",2011-10-25,58,63.93
+"Office Supplies",2011-10-26,40,64.60
+"Office Supplies",2011-10-27,66,62.03
+"Office Supplies",2011-10-28,45,58.93
+"Office Supplies",2011-10-29,8,56.47
+"Office Supplies",2011-10-30,4,52.97
+"Office Supplies",2011-10-31,78,53.03
+"Office Supplies",2011-11-01,204,59.10
+"Office Supplies",2011-11-02,63,60.80
+"Office Supplies",2011-11-03,133,62.60
+"Office Supplies",2011-11-04,111,64.07
+"Office Supplies",2011-11-05,30,63.63
+"Office Supplies",2011-11-06,7,62.27
+"Office Supplies",2011-11-07,132,63.30
+"Office Supplies",2011-11-08,73,64.87
+"Office Supplies",2011-11-09,57,66.60
+"Office Supplies",2011-11-10,93,67.40
+"Office Supplies",2011-11-11,119,69.93
+"Office Supplies",2011-11-12,62,69.20
+"Office Supplies",2011-11-13,12,66.13
+"Office Supplies",2011-11-14,80,65.60
+"Office Supplies",2011-11-15,78,66.40
+"Office Supplies",2011-11-16,76,68.63
+"Office Supplies",2011-11-17,62,69.33
+"Office Supplies",2011-11-18,102,70.90
+"Office Supplies",2011-11-19,38,68.93
+"Office Supplies",2011-11-20,16,66.90
+"Office Supplies",2011-11-21,76,66.70
+"Office Supplies",2011-11-22,130,69.77
+"Office Supplies",2011-11-23,88,71.37
+"Office Supplies",2011-11-24,69,71.73
+"Office Supplies",2011-11-25,110,74.07
+"Office Supplies",2011-11-26,63,73.97
+"Office Supplies",2011-11-27,9,72.77
+"Office Supplies",2011-11-28,150,77.50
+"Office Supplies",2011-11-29,119,81.33
+"Office Supplies",2011-11-30,96,81.93
+"Office Supplies",2011-12-01,82,77.87
+"Office Supplies",2011-12-02,71,78.13
+"Office Supplies",2011-12-03,70,76.03
+"Office Supplies",2011-12-04,1,72.37
+"Office Supplies",2011-12-05,109,75.00
+"Office Supplies",2011-12-06,87,77.67
+"Office Supplies",2011-12-07,52,75.00
+"Office Supplies",2011-12-08,132,76.97
+"Office Supplies",2011-12-09,106,78.60
+"Office Supplies",2011-12-10,77,78.07
+"Office Supplies",2011-12-11,5,74.27
+"Office Supplies",2011-12-12,84,75.00
+"Office Supplies",2011-12-13,122,78.67
+"Office Supplies",2011-12-14,58,77.93
+"Office Supplies",2011-12-15,116,79.20
+"Office Supplies",2011-12-16,60,78.67
+"Office Supplies",2011-12-17,62,78.67
+"Office Supplies",2011-12-19,114,79.07
+"Office Supplies",2011-12-20,124,81.93
+"Office Supplies",2011-12-21,104,84.87
+"Office Supplies",2011-12-22,119,86.30
+"Office Supplies",2011-12-23,121,86.00
+"Office Supplies",2011-12-24,61,85.10
+"Office Supplies",2011-12-25,22,83.53
+"Office Supplies",2011-12-26,106,83.40
+"Office Supplies",2011-12-27,139,85.93
+"Office Supplies",2011-12-28,108,89.23
+"Office Supplies",2011-12-29,85,87.07
+"Office Supplies",2011-12-30,95,86.27
+"Office Supplies",2011-12-31,37,84.30
+"Office Supplies",2012-01-02,68,83.83
+"Office Supplies",2012-01-03,35,82.63
+"Office Supplies",2012-01-04,43,81.73
+"Office Supplies",2012-01-05,74,84.17
+"Office Supplies",2012-01-06,33,81.63
+"Office Supplies",2012-01-07,13,79.17
+"Office Supplies",2012-01-08,4,77.57
+"Office Supplies",2012-01-09,41,74.53
+"Office Supplies",2012-01-10,45,72.50
+"Office Supplies",2012-01-11,14,70.40
+"Office Supplies",2012-01-12,90,73.23
+"Office Supplies",2012-01-13,53,72.20
+"Office Supplies",2012-01-14,11,68.50
+"Office Supplies",2012-01-16,22,67.30
+"Office Supplies",2012-01-17,56,65.30
+"Office Supplies",2012-01-18,88,66.23
+"Office Supplies",2012-01-19,35,65.33
+"Office Supplies",2012-01-20,30,62.53
+"Office Supplies",2012-01-21,16,58.93
+"Office Supplies",2012-01-22,5,55.63
+"Office Supplies",2012-01-23,64,53.80
+"Office Supplies",2012-01-24,39,51.07
+"Office Supplies",2012-01-25,56,50.90
+"Office Supplies",2012-01-26,23,50.93
+"Office Supplies",2012-01-27,46,48.93
+"Office Supplies",2012-01-28,19,44.93
+"Office Supplies",2012-01-29,2,41.40
+"Office Supplies",2012-01-30,53,40.33
+"Office Supplies",2012-01-31,22,37.90
+"Office Supplies",2012-02-01,8,36.93
+"Office Supplies",2012-02-02,47,36.23
+"Office Supplies",2012-02-03,33,36.17
+"Office Supplies",2012-02-04,10,35.07
+"Office Supplies",2012-02-05,5,32.77
+"Office Supplies",2012-02-06,65,33.83
+"Office Supplies",2012-02-07,26,34.27
+"Office Supplies",2012-02-08,30,35.13
+"Office Supplies",2012-02-09,54,35.57
+"Office Supplies",2012-02-10,50,35.73
+"Office Supplies",2012-02-11,6,35.47
+"Office Supplies",2012-02-12,8,32.73
+"Office Supplies",2012-02-13,33,32.07
+"Office Supplies",2012-02-14,52,33.43
+"Office Supplies",2012-02-15,75,35.20
+"Office Supplies",2012-02-16,34,34.47
+"Office Supplies",2012-02-17,32,32.60
+"Office Supplies",2012-02-18,40,32.77
+"Office Supplies",2012-02-20,36,32.97
+"Office Supplies",2012-02-21,29,33.40
+"Office Supplies",2012-02-22,40,34.57
+"Office Supplies",2012-02-23,40,33.77
+"Office Supplies",2012-02-24,11,32.83
+"Office Supplies",2012-02-25,25,31.80
+"Office Supplies",2012-02-27,24,31.83
+"Office Supplies",2012-02-28,16,30.83
+"Office Supplies",2012-02-29,18,30.80
+"Office Supplies",2012-03-01,26,31.60
+"Office Supplies",2012-03-02,85,32.67
+"Office Supplies",2012-03-03,10,32.27
+"Office Supplies",2012-03-05,65,34.17
+"Office Supplies",2012-03-06,46,34.13
+"Office Supplies",2012-03-07,44,34.50
+"Office Supplies",2012-03-08,33,35.27
+"Office Supplies",2012-03-09,20,35.77
+"Office Supplies",2012-03-10,30,34.60
+"Office Supplies",2012-03-12,14,34.20
+"Office Supplies",2012-03-13,36,34.40
+"Office Supplies",2012-03-14,60,34.60
+"Office Supplies",2012-03-15,66,35.13
+"Office Supplies",2012-03-16,57,36.83
+"Office Supplies",2012-03-17,22,37.30
+"Office Supplies",2012-03-19,115,40.03
+"Office Supplies",2012-03-20,111,42.00
+"Office Supplies",2012-03-21,43,40.93
+"Office Supplies",2012-03-22,69,42.10
+"Office Supplies",2012-03-23,54,42.83
+"Office Supplies",2012-03-24,26,42.37
+"Office Supplies",2012-03-26,67,43.40
+"Office Supplies",2012-03-27,68,44.70
+"Office Supplies",2012-03-28,32,44.43
+"Office Supplies",2012-03-29,51,44.80
+"Office Supplies",2012-03-30,28,45.37
+"Office Supplies",2012-03-31,38,45.80
+"Office Supplies",2012-04-01,5,45.17
+"Office Supplies",2012-04-02,26,45.50
+"Office Supplies",2012-04-03,29,45.87
+"Office Supplies",2012-04-04,39,46.30
+"Office Supplies",2012-04-05,75,45.97
+"Office Supplies",2012-04-06,63,47.73
+"Office Supplies",2012-04-07,44,47.03
+"Office Supplies",2012-04-09,54,47.30
+"Office Supplies",2012-04-10,47,47.40
+"Office Supplies",2012-04-11,50,47.97
+"Office Supplies",2012-04-12,17,47.87
+"Office Supplies",2012-04-13,63,48.97
+"Office Supplies",2012-04-14,29,49.47
+"Office Supplies",2012-04-15,7,48.50
+"Office Supplies",2012-04-16,96,49.70
+"Office Supplies",2012-04-17,59,49.47
+"Office Supplies",2012-04-18,53,49.33
+"Office Supplies",2012-04-19,34,49.73
+"Office Supplies",2012-04-20,24,46.70
+"Office Supplies",2012-04-21,19,43.63
+"Office Supplies",2012-04-22,36,43.40
+"Office Supplies",2012-04-23,28,42.03
+"Office Supplies",2012-04-24,74,42.70
+"Office Supplies",2012-04-25,56,43.70
+"Office Supplies",2012-04-26,37,42.70
+"Office Supplies",2012-04-27,75,42.93
+"Office Supplies",2012-04-28,72,44.27
+"Office Supplies",2012-04-29,25,43.40
+"Office Supplies",2012-04-30,62,44.53
+"Office Supplies",2012-05-01,52,45.00
+"Office Supplies",2012-05-02,23,45.60
+"Office Supplies",2012-05-03,59,46.70
+"Office Supplies",2012-05-04,56,47.60
+"Office Supplies",2012-05-05,8,46.57
+"Office Supplies",2012-05-06,14,44.53
+"Office Supplies",2012-05-07,62,44.50
+"Office Supplies",2012-05-08,51,44.73
+"Office Supplies",2012-05-09,99,46.23
+"Office Supplies",2012-05-10,50,46.33
+"Office Supplies",2012-05-11,77,47.23
+"Office Supplies",2012-05-12,52,48.40
+"Office Supplies",2012-05-13,7,46.53
+"Office Supplies",2012-05-14,118,49.50
+"Office Supplies",2012-05-15,91,52.30
+"Office Supplies",2012-05-16,67,51.33
+"Office Supplies",2012-05-17,79,52.00
+"Office Supplies",2012-05-18,42,51.63
+"Office Supplies",2012-05-19,25,51.33
+"Office Supplies",2012-05-20,4,50.67
+"Office Supplies",2012-05-21,86,52.90
+"Office Supplies",2012-05-22,81,54.40
+"Office Supplies",2012-05-23,101,56.83
+"Office Supplies",2012-05-24,108,57.97
+"Office Supplies",2012-05-25,86,58.97
+"Office Supplies",2012-05-26,35,58.90
+"Office Supplies",2012-05-27,2,56.47
+"Office Supplies",2012-05-28,74,56.53
+"Office Supplies",2012-05-29,84,58.50
+"Office Supplies",2012-05-30,39,57.73
+"Office Supplies",2012-05-31,133,60.43
+"Office Supplies",2012-06-01,112,63.40
+"Office Supplies",2012-06-02,64,63.57
+"Office Supplies",2012-06-03,3,61.80
+"Office Supplies",2012-06-04,87,64.43
+"Office Supplies",2012-06-05,81,66.67
+"Office Supplies",2012-06-06,83,67.37
+"Office Supplies",2012-06-07,90,68.67
+"Office Supplies",2012-06-08,104,68.83
+"Office Supplies",2012-06-09,56,69.03
+"Office Supplies",2012-06-10,11,66.83
+"Office Supplies",2012-06-11,149,70.07
+"Office Supplies",2012-06-12,100,73.17
+"Office Supplies",2012-06-13,101,72.60
+"Office Supplies",2012-06-14,59,71.53
+"Office Supplies",2012-06-15,68,71.57
+"Office Supplies",2012-06-16,66,71.13
+"Office Supplies",2012-06-17,11,70.10
+"Office Supplies",2012-06-18,117,73.17
+"Office Supplies",2012-06-19,158,78.30
+"Office Supplies",2012-06-20,63,77.53
+"Office Supplies",2012-06-21,84,77.63
+"Office Supplies",2012-06-22,50,75.93
+"Office Supplies",2012-06-23,46,73.87
+"Office Supplies",2012-06-24,9,71.30
+"Office Supplies",2012-06-25,127,74.37
+"Office Supplies",2012-06-26,69,76.60
+"Office Supplies",2012-06-27,66,76.33
+"Office Supplies",2012-06-28,61,75.57
+"Office Supplies",2012-06-29,107,77.83
+"Office Supplies",2012-06-30,34,74.53
+"Office Supplies",2012-07-01,3,70.90
+"Office Supplies",2012-07-02,71,71.13
+"Office Supplies",2012-07-03,59,73.00
+"Office Supplies",2012-07-04,54,71.90
+"Office Supplies",2012-07-05,47,70.77
+"Office Supplies",2012-07-06,44,69.47
+"Office Supplies",2012-07-07,40,67.80
+"Office Supplies",2012-07-08,8,64.60
+"Office Supplies",2012-07-09,76,65.27
+"Office Supplies",2012-07-10,32,65.97
+"Office Supplies",2012-07-11,108,64.60
+"Office Supplies",2012-07-12,49,62.90
+"Office Supplies",2012-07-13,70,61.87
+"Office Supplies",2012-07-14,34,61.03
+"Office Supplies",2012-07-15,2,58.83
+"Office Supplies",2012-07-16,51,58.33
+"Office Supplies",2012-07-17,44,59.43
+"Office Supplies",2012-07-18,33,56.63
+"Office Supplies",2012-07-19,22,52.10
+"Office Supplies",2012-07-20,65,52.17
+"Office Supplies",2012-07-21,38,50.63
+"Office Supplies",2012-07-23,39,50.27
+"Office Supplies",2012-07-24,78,51.33
+"Office Supplies",2012-07-25,112,54.77
+"Office Supplies",2012-07-26,37,51.77
+"Office Supplies",2012-07-27,33,50.57
+"Office Supplies",2012-07-28,28,49.30
+"Office Supplies",2012-07-29,4,47.40
+"Office Supplies",2012-07-30,62,45.90
+"Office Supplies",2012-07-31,59,46.73
+"Office Supplies",2012-08-01,81,49.33
+"Office Supplies",2012-08-02,90,49.97
+"Office Supplies",2012-08-03,186,54.20
+"Office Supplies",2012-08-04,29,53.37
+"Office Supplies",2012-08-05,23,52.57
+"Office Supplies",2012-08-06,96,54.30
+"Office Supplies",2012-08-07,86,55.83
+"Office Supplies",2012-08-08,73,58.00
+"Office Supplies",2012-08-09,76,58.00
+"Office Supplies",2012-08-10,102,60.33
+"Office Supplies",2012-08-11,30,57.73
+"Office Supplies",2012-08-12,13,56.53
+"Office Supplies",2012-08-13,86,57.07
+"Office Supplies",2012-08-14,119,59.90
+"Office Supplies",2012-08-15,56,61.70
+"Office Supplies",2012-08-16,109,63.63
+"Office Supplies",2012-08-17,66,64.37
+"Office Supplies",2012-08-18,21,63.97
+"Office Supplies",2012-08-19,2,63.30
+"Office Supplies",2012-08-20,99,64.43
+"Office Supplies",2012-08-21,71,65.53
+"Office Supplies",2012-08-22,53,66.00
+"Office Supplies",2012-08-23,163,68.83
+"Office Supplies",2012-08-24,158,70.37
+"Office Supplies",2012-08-25,59,71.10
+"Office Supplies",2012-08-26,6,70.20
+"Office Supplies",2012-08-27,83,72.03
+"Office Supplies",2012-08-28,92,74.97
+"Office Supplies",2012-08-29,105,76.40
+"Office Supplies",2012-08-30,41,75.80
+"Office Supplies",2012-08-31,96,76.30
+"Office Supplies",2012-09-01,63,75.40
+"Office Supplies",2012-09-02,21,69.90
+"Office Supplies",2012-09-03,113,72.70
+"Office Supplies",2012-09-04,114,75.73
+"Office Supplies",2012-09-05,106,76.07
+"Office Supplies",2012-09-06,77,75.77
+"Office Supplies",2012-09-07,107,76.90
+"Office Supplies",2012-09-08,22,75.10
+"Office Supplies",2012-09-09,4,71.83
+"Office Supplies",2012-09-10,139,75.47
+"Office Supplies",2012-09-11,148,79.97
+"Office Supplies",2012-09-12,96,80.30
+"Office Supplies",2012-09-13,93,79.43
+"Office Supplies",2012-09-14,87,80.47
+"Office Supplies",2012-09-15,114,80.63
+"Office Supplies",2012-09-16,8,78.70
+"Office Supplies",2012-09-17,117,81.90
+"Office Supplies",2012-09-18,130,86.17
+"Office Supplies",2012-09-19,53,84.63
+"Office Supplies",2012-09-20,92,85.33
+"Office Supplies",2012-09-21,109,87.20
+"Office Supplies",2012-09-22,64,83.90
+"Office Supplies",2012-09-24,141,83.33
+"Office Supplies",2012-09-25,114,85.17
+"Office Supplies",2012-09-26,108,88.57
+"Office Supplies",2012-09-27,110,89.47
+"Office Supplies",2012-09-28,118,90.33
+"Office Supplies",2012-09-29,42,88.23
+"Office Supplies",2012-09-30,9,87.17
+"Office Supplies",2012-10-01,114,87.77
+"Office Supplies",2012-10-02,86,88.53
+"Office Supplies",2012-10-03,82,90.57
+"Office Supplies",2012-10-04,70,89.13
+"Office Supplies",2012-10-05,95,88.50
+"Office Supplies",2012-10-06,76,87.50
+"Office Supplies",2012-10-07,2,85.00
+"Office Supplies",2012-10-08,64,83.57
+"Office Supplies",2012-10-09,106,86.37
+"Office Supplies",2012-10-10,55,88.07
+"Office Supplies",2012-10-11,63,85.53
+"Office Supplies",2012-10-12,73,83.03
+"Office Supplies",2012-10-13,5,80.00
+"Office Supplies",2012-10-14,2,76.97
+"Office Supplies",2012-10-15,130,78.40
+"Office Supplies",2012-10-16,29,75.57
+"Office Supplies",2012-10-17,61,77.33
+"Office Supplies",2012-10-18,73,75.87
+"Office Supplies",2012-10-19,88,74.47
+"Office Supplies",2012-10-20,18,73.30
+"Office Supplies",2012-10-21,7,70.47
+"Office Supplies",2012-10-22,60,68.83
+"Office Supplies",2012-10-23,75,69.20
+"Office Supplies",2012-10-24,144,69.30
+"Office Supplies",2012-10-25,65,67.67
+"Office Supplies",2012-10-26,92,67.13
+"Office Supplies",2012-10-27,79,66.10
+"Office Supplies",2012-10-28,4,62.30
+"Office Supplies",2012-10-29,94,64.03
+"Office Supplies",2012-10-30,71,66.10
+"Office Supplies",2012-10-31,131,66.67
+"Office Supplies",2012-11-01,120,67.80
+"Office Supplies",2012-11-02,126,69.27
+"Office Supplies",2012-11-03,25,67.77
+"Office Supplies",2012-11-04,1,64.63
+"Office Supplies",2012-11-05,167,67.67
+"Office Supplies",2012-11-06,81,70.30
+"Office Supplies",2012-11-07,113,71.93
+"Office Supplies",2012-11-08,205,75.23
+"Office Supplies",2012-11-09,138,78.00
+"Office Supplies",2012-11-10,109,79.53
+"Office Supplies",2012-11-11,13,77.53
+"Office Supplies",2012-11-12,130,81.70
+"Office Supplies",2012-11-13,246,89.83
+"Office Supplies",2012-11-14,124,89.63
+"Office Supplies",2012-11-15,160,94.00
+"Office Supplies",2012-11-16,143,96.73
+"Office Supplies",2012-11-17,65,96.47
+"Office Supplies",2012-11-19,83,96.30
+"Office Supplies",2012-11-20,152,100.77
+"Office Supplies",2012-11-21,131,104.90
+"Office Supplies",2012-11-22,115,106.73
+"Office Supplies",2012-11-23,134,108.70
+"Office Supplies",2012-11-24,78,106.50
+"Office Supplies",2012-11-25,19,104.97
+"Office Supplies",2012-11-26,81,104.60
+"Office Supplies",2012-11-27,102,105.37
+"Office Supplies",2012-11-28,112,108.97
+"Office Supplies",2012-11-29,120,109.83
+"Office Supplies",2012-11-30,94,110.60
+"Office Supplies",2012-12-01,83,109.00
+"Office Supplies",2012-12-02,18,105.60
+"Office Supplies",2012-12-03,159,106.70
+"Office Supplies",2012-12-04,149,110.83
+"Office Supplies",2012-12-05,99,114.10
+"Office Supplies",2012-12-06,109,112.17
+"Office Supplies",2012-12-07,119,113.43
+"Office Supplies",2012-12-08,54,111.47
+"Office Supplies",2012-12-09,13,105.07
+"Office Supplies",2012-12-10,130,104.80
+"Office Supplies",2012-12-11,111,104.87
+"Office Supplies",2012-12-12,115,108.27
+"Office Supplies",2012-12-13,68,106.20
+"Office Supplies",2012-12-14,56,99.87
+"Office Supplies",2012-12-15,77,98.30
+"Office Supplies",2012-12-16,10,93.30
+"Office Supplies",2012-12-17,117,92.43
+"Office Supplies",2012-12-18,156,95.47
+"Office Supplies",2012-12-19,103,96.13
+"Office Supplies",2012-12-20,130,95.40
+"Office Supplies",2012-12-21,83,93.80
+"Office Supplies",2012-12-22,39,91.27
+"Office Supplies",2012-12-23,12,87.20
+"Office Supplies",2012-12-24,130,88.93
+"Office Supplies",2012-12-25,118,92.23
+"Office Supplies",2012-12-26,107,93.10
+"Office Supplies",2012-12-27,138,94.30
+"Office Supplies",2012-12-28,162,95.97
+"Office Supplies",2012-12-29,29,92.93
+"Office Supplies",2012-12-30,40,91.13
+"Office Supplies",2012-12-31,147,93.27
+"Office Supplies",2013-01-01,43,94.10
+"Office Supplies",2013-01-02,44,90.27
+"Office Supplies",2013-01-03,53,87.07
+"Office Supplies",2013-01-04,72,86.17
+"Office Supplies",2013-01-05,19,83.17
+"Office Supplies",2013-01-07,83,81.97
+"Office Supplies",2013-01-08,73,82.60
+"Office Supplies",2013-01-09,44,83.63
+"Office Supplies",2013-01-10,61,81.33
+"Office Supplies",2013-01-11,36,78.83
+"Office Supplies",2013-01-12,38,76.27
+"Office Supplies",2013-01-13,4,74.13
+"Office Supplies",2013-01-14,62,74.33
+"Office Supplies",2013-01-15,77,74.33
+"Office Supplies",2013-01-16,65,76.17
+"Office Supplies",2013-01-17,45,73.77
+"Office Supplies",2013-01-18,54,70.37
+"Office Supplies",2013-01-19,22,67.67
+"Office Supplies",2013-01-20,7,63.57
+"Office Supplies",2013-01-21,24,61.60
+"Office Supplies",2013-01-22,69,62.60
+"Office Supplies",2013-01-23,50,63.87
+"Office Supplies",2013-01-24,24,60.33
+"Office Supplies",2013-01-25,56,58.27
+"Office Supplies",2013-01-26,22,55.43
+"Office Supplies",2013-01-27,12,51.23
+"Office Supplies",2013-01-28,80,48.50
+"Office Supplies",2013-01-29,53,49.30
+"Office Supplies",2013-01-30,96,51.17
+"Office Supplies",2013-01-31,64,48.40
+"Office Supplies",2013-02-01,50,48.63
+"Office Supplies",2013-02-02,43,48.60
+"Office Supplies",2013-02-03,7,47.07
+"Office Supplies",2013-02-04,20,45.33
+"Office Supplies",2013-02-05,87,47.60
+"Office Supplies",2013-02-06,37,46.07
+"Office Supplies",2013-02-07,61,45.67
+"Office Supplies",2013-02-08,37,45.43
+"Office Supplies",2013-02-09,16,43.93
+"Office Supplies",2013-02-10,24,43.53
+"Office Supplies",2013-02-11,58,44.20
+"Office Supplies",2013-02-12,95,47.23
+"Office Supplies",2013-02-13,46,46.70
+"Office Supplies",2013-02-14,52,45.87
+"Office Supplies",2013-02-15,73,46.13
+"Office Supplies",2013-02-16,29,45.60
+"Office Supplies",2013-02-18,46,45.33
+"Office Supplies",2013-02-19,68,46.87
+"Office Supplies",2013-02-20,48,48.23
+"Office Supplies",2013-02-21,44,48.90
+"Office Supplies",2013-02-22,77,49.17
+"Office Supplies",2013-02-23,28,48.43
+"Office Supplies",2013-02-25,35,48.80
+"Office Supplies",2013-02-26,36,48.13
+"Office Supplies",2013-02-27,102,50.80
+"Office Supplies",2013-02-28,60,52.40
+"Office Supplies",2013-03-01,53,51.50
+"Office Supplies",2013-03-02,38,51.00
+"Office Supplies",2013-03-03,5,47.97
+"Office Supplies",2013-03-04,69,48.13
+"Office Supplies",2013-03-05,63,48.57
+"Office Supplies",2013-03-06,54,48.93
+"Office Supplies",2013-03-07,37,49.93
+"Office Supplies",2013-03-08,58,51.20
+"Office Supplies",2013-03-09,35,49.47
+"Office Supplies",2013-03-10,8,48.50
+"Office Supplies",2013-03-11,98,49.73
+"Office Supplies",2013-03-12,40,49.83
+"Office Supplies",2013-03-13,131,53.67
+"Office Supplies",2013-03-14,90,55.87
+"Office Supplies",2013-03-15,65,56.10
+"Office Supplies",2013-03-16,45,54.43
+"Office Supplies",2013-03-17,3,53.00
+"Office Supplies",2013-03-18,48,52.87
+"Office Supplies",2013-03-19,52,52.17
+"Office Supplies",2013-03-20,74,53.67
+"Office Supplies",2013-03-21,47,53.70
+"Office Supplies",2013-03-22,28,52.37
+"Office Supplies",2013-03-23,66,52.97
+"Office Supplies",2013-03-24,10,51.83
+"Office Supplies",2013-03-25,68,51.53
+"Office Supplies",2013-03-26,50,52.27
+"Office Supplies",2013-03-27,62,53.17
+"Office Supplies",2013-03-28,67,54.20
+"Office Supplies",2013-03-29,58,52.73
+"Office Supplies",2013-03-30,51,52.43
+"Office Supplies",2013-03-31,3,50.77
+"Office Supplies",2013-04-01,31,50.53
+"Office Supplies",2013-04-02,118,54.30
+"Office Supplies",2013-04-03,34,53.13
+"Office Supplies",2013-04-04,42,52.43
+"Office Supplies",2013-04-05,70,52.97
+"Office Supplies",2013-04-06,23,52.50
+"Office Supplies",2013-04-07,38,51.83
+"Office Supplies",2013-04-08,33,51.77
+"Office Supplies",2013-04-09,93,54.60
+"Office Supplies",2013-04-10,65,53.50
+"Office Supplies",2013-04-11,83,54.93
+"Office Supplies",2013-04-12,74,53.03
+"Office Supplies",2013-04-13,42,51.43
+"Office Supplies",2013-04-14,3,49.37
+"Office Supplies",2013-04-15,92,50.93
+"Office Supplies",2013-04-16,69,53.13
+"Office Supplies",2013-04-17,51,53.23
+"Office Supplies",2013-04-18,45,53.00
+"Office Supplies",2013-04-19,68,52.80
+"Office Supplies",2013-04-20,90,54.23
+"Office Supplies",2013-04-22,39,54.60
+"Office Supplies",2013-04-23,100,55.73
+"Office Supplies",2013-04-24,76,57.93
+"Office Supplies",2013-04-25,94,58.80
+"Office Supplies",2013-04-26,64,59.27
+"Office Supplies",2013-04-27,4,57.33
+"Office Supplies",2013-04-29,63,57.20
+"Office Supplies",2013-04-30,48,56.87
+"Office Supplies",2013-05-01,103,58.60
+"Office Supplies",2013-05-02,29,59.47
+"Office Supplies",2013-05-03,140,63.10
+"Office Supplies",2013-05-04,65,61.33
+"Office Supplies",2013-05-05,11,60.57
+"Office Supplies",2013-05-06,81,61.87
+"Office Supplies",2013-05-07,136,64.07
+"Office Supplies",2013-05-08,90,66.30
+"Office Supplies",2013-05-09,68,67.30
+"Office Supplies",2013-05-10,99,69.50
+"Office Supplies",2013-05-11,27,67.30
+"Office Supplies",2013-05-12,23,65.90
+"Office Supplies",2013-05-13,40,64.47
+"Office Supplies",2013-05-14,82,64.73
+"Office Supplies",2013-05-15,122,67.40
+"Office Supplies",2013-05-16,114,71.10
+"Office Supplies",2013-05-17,79,70.67
+"Office Supplies",2013-05-18,68,70.63
+"Office Supplies",2013-05-19,12,69.33
+"Office Supplies",2013-05-20,55,69.67
+"Office Supplies",2013-05-21,64,69.53
+"Office Supplies",2013-05-22,65,68.70
+"Office Supplies",2013-05-23,66,69.60
+"Office Supplies",2013-05-24,149,71.23
+"Office Supplies",2013-05-25,44,70.17
+"Office Supplies",2013-05-26,15,67.53
+"Office Supplies",2013-05-27,91,68.43
+"Office Supplies",2013-05-28,104,71.77
+"Office Supplies",2013-05-29,106,73.20
+"Office Supplies",2013-05-30,87,74.50
+"Office Supplies",2013-05-31,116,74.93
+"Office Supplies",2013-06-01,101,77.33
+"Office Supplies",2013-06-02,33,73.77
+"Office Supplies",2013-06-03,119,75.57
+"Office Supplies",2013-06-04,119,79.17
+"Office Supplies",2013-06-05,130,80.80
+"Office Supplies",2013-06-06,89,79.23
+"Office Supplies",2013-06-07,197,82.80
+"Office Supplies",2013-06-08,62,82.60
+"Office Supplies",2013-06-09,9,79.60
+"Office Supplies",2013-06-10,121,82.73
+"Office Supplies",2013-06-11,160,87.30
+"Office Supplies",2013-06-12,112,89.70
+"Office Supplies",2013-06-13,249,95.27
+"Office Supplies",2013-06-14,132,95.60
+"Office Supplies",2013-06-15,80,94.47
+"Office Supplies",2013-06-16,10,92.17
+"Office Supplies",2013-06-17,148,94.83
+"Office Supplies",2013-06-18,157,99.67
+"Office Supplies",2013-06-19,53,99.60
+"Office Supplies",2013-06-20,102,100.87
+"Office Supplies",2013-06-21,149,103.67
+"Office Supplies",2013-06-22,69,103.77
+"Office Supplies",2013-06-23,10,99.13
+"Office Supplies",2013-06-24,186,103.87
+"Office Supplies",2013-06-25,171,109.07
+"Office Supplies",2013-06-26,114,109.83
+"Office Supplies",2013-06-27,144,111.17
+"Office Supplies",2013-06-28,150,112.63
+"Office Supplies",2013-06-29,64,111.87
+"Office Supplies",2013-06-30,19,108.63
+"Office Supplies",2013-07-01,84,108.07
+"Office Supplies",2013-07-02,71,109.33
+"Office Supplies",2013-07-03,83,108.13
+"Office Supplies",2013-07-04,56,106.03
+"Office Supplies",2013-07-05,39,103.00
+"Office Supplies",2013-07-06,56,101.90
+"Office Supplies",2013-07-07,7,95.57
+"Office Supplies",2013-07-08,101,96.87
+"Office Supplies",2013-07-09,107,100.13
+"Office Supplies",2013-07-10,63,98.20
+"Office Supplies",2013-07-11,46,94.40
+"Office Supplies",2013-07-12,75,93.17
+"Office Supplies",2013-07-13,34,86.00
+"Office Supplies",2013-07-14,18,82.20
+"Office Supplies",2013-07-15,87,82.43
+"Office Supplies",2013-07-16,73,84.53
+"Office Supplies",2013-07-17,75,82.10
+"Office Supplies",2013-07-18,78,79.47
+"Office Supplies",2013-07-19,76,80.23
+"Office Supplies",2013-07-20,75,79.33
+"Office Supplies",2013-07-22,111,78.07
+"Office Supplies",2013-07-23,115,79.60
+"Office Supplies",2013-07-24,76,81.80
+"Office Supplies",2013-07-25,54,77.40
+"Office Supplies",2013-07-26,56,73.57
+"Office Supplies",2013-07-27,16,70.30
+"Office Supplies",2013-07-28,7,65.73
+"Office Supplies",2013-07-29,73,63.17
+"Office Supplies",2013-07-30,71,63.40
+"Office Supplies",2013-07-31,43,64.20
+"Office Supplies",2013-08-01,91,64.43
+"Office Supplies",2013-08-02,94,65.20
+"Office Supplies",2013-08-03,36,63.63
+"Office Supplies",2013-08-04,15,62.27
+"Office Supplies",2013-08-05,116,64.83
+"Office Supplies",2013-08-06,101,66.33
+"Office Supplies",2013-08-07,177,72.00
+"Office Supplies",2013-08-08,98,71.90
+"Office Supplies",2013-08-09,94,71.47
+"Office Supplies",2013-08-10,65,71.53
+"Office Supplies",2013-08-11,22,70.73
+"Office Supplies",2013-08-12,141,72.93
+"Office Supplies",2013-08-13,136,76.33
+"Office Supplies",2013-08-14,154,80.87
+"Office Supplies",2013-08-15,105,81.47
+"Office Supplies",2013-08-16,192,85.43
+"Office Supplies",2013-08-17,51,84.63
+"Office Supplies",2013-08-18,6,82.23
+"Office Supplies",2013-08-19,153,84.80
+"Office Supplies",2013-08-20,123,86.40
+"Office Supplies",2013-08-21,94,85.83
+"Office Supplies",2013-08-22,133,86.43
+"Office Supplies",2013-08-23,126,88.10
+"Office Supplies",2013-08-24,126,90.50
+"Office Supplies",2013-08-25,15,89.13
+"Office Supplies",2013-08-26,44,90.07
+"Office Supplies",2013-08-27,125,94.00
+"Office Supplies",2013-08-28,150,96.57
+"Office Supplies",2013-08-29,155,99.37
+"Office Supplies",2013-08-30,124,102.07
+"Office Supplies",2013-08-31,83,101.80
+"Office Supplies",2013-09-01,11,99.03
+"Office Supplies",2013-09-02,116,101.70
+"Office Supplies",2013-09-03,176,107.07
+"Office Supplies",2013-09-04,118,107.13
+"Office Supplies",2013-09-05,212,110.83
+"Office Supplies",2013-09-06,211,111.97
+"Office Supplies",2013-09-07,38,109.97
+"Office Supplies",2013-09-08,4,106.97
+"Office Supplies",2013-09-09,145,109.63
+"Office Supplies",2013-09-10,153,114.00
+"Office Supplies",2013-09-11,98,112.57
+"Office Supplies",2013-09-12,145,112.87
+"Office Supplies",2013-09-13,162,113.13
+"Office Supplies",2013-09-14,64,111.77
+"Office Supplies",2013-09-15,13,105.80
+"Office Supplies",2013-09-16,186,110.30
+"Office Supplies",2013-09-17,120,114.10
+"Office Supplies",2013-09-18,82,111.73
+"Office Supplies",2013-09-19,153,112.73
+"Office Supplies",2013-09-20,250,117.93
+"Office Supplies",2013-09-21,140,118.17
+"Office Supplies",2013-09-22,6,114.17
+"Office Supplies",2013-09-23,138,114.57
+"Office Supplies",2013-09-24,147,118.97
+"Office Supplies",2013-09-25,198,124.10
+"Office Supplies",2013-09-26,169,125.57
+"Office Supplies",2013-09-27,160,125.90
+"Office Supplies",2013-09-28,41,122.10
+"Office Supplies",2013-09-29,8,118.23
+"Office Supplies",2013-09-30,126,119.67
+"Office Supplies",2013-10-01,49,120.93
+"Office Supplies",2013-10-02,67,119.30
+"Office Supplies",2013-10-03,138,118.03
+"Office Supplies",2013-10-04,99,117.40
+"Office Supplies",2013-10-05,19,110.97
+"Office Supplies",2013-10-06,3,104.03
+"Office Supplies",2013-10-07,92,105.83
+"Office Supplies",2013-10-08,61,107.73
+"Office Supplies",2013-10-09,48,104.50
+"Office Supplies",2013-10-10,85,102.23
+"Office Supplies",2013-10-11,49,100.60
+"Office Supplies",2013-10-12,46,97.30
+"Office Supplies",2013-10-14,136,96.43
+"Office Supplies",2013-10-15,155,99.47
+"Office Supplies",2013-10-16,135,103.53
+"Office Supplies",2013-10-17,38,98.60
+"Office Supplies",2013-10-18,108,98.20
+"Office Supplies",2013-10-19,17,96.03
+"Office Supplies",2013-10-20,4,91.07
+"Office Supplies",2013-10-21,84,85.53
+"Office Supplies",2013-10-22,146,85.73
+"Office Supplies",2013-10-23,91,88.57
+"Office Supplies",2013-10-24,56,85.83
+"Office Supplies",2013-10-25,70,83.27
+"Office Supplies",2013-10-26,8,76.93
+"Office Supplies",2013-10-27,2,71.37
+"Office Supplies",2013-10-28,76,68.57
+"Office Supplies",2013-10-29,121,71.23
+"Office Supplies",2013-10-30,109,74.60
+"Office Supplies",2013-10-31,102,73.80
+"Office Supplies",2013-11-01,176,78.03
+"Office Supplies",2013-11-02,48,77.40
+"Office Supplies",2013-11-04,116,76.67
+"Office Supplies",2013-11-05,140,78.03
+"Office Supplies",2013-11-06,181,83.43
+"Office Supplies",2013-11-07,85,86.17
+"Office Supplies",2013-11-08,119,87.07
+"Office Supplies",2013-11-09,108,88.63
+"Office Supplies",2013-11-11,215,94.20
+"Office Supplies",2013-11-12,133,95.80
+"Office Supplies",2013-11-13,157,99.40
+"Office Supplies",2013-11-14,135,102.37
+"Office Supplies",2013-11-15,172,103.57
+"Office Supplies",2013-11-16,41,99.77
+"Office Supplies",2013-11-17,17,95.83
+"Office Supplies",2013-11-18,142,99.30
+"Office Supplies",2013-11-19,179,101.67
+"Office Supplies",2013-11-20,126,105.30
+"Office Supplies",2013-11-21,133,109.60
+"Office Supplies",2013-11-22,160,112.13
+"Office Supplies",2013-11-23,77,109.83
+"Office Supplies",2013-11-24,37,108.03
+"Office Supplies",2013-11-25,137,110.73
+"Office Supplies",2013-11-26,110,112.07
+"Office Supplies",2013-11-27,90,114.80
+"Office Supplies",2013-11-28,155,119.90
+"Office Supplies",2013-11-29,80,120.03
+"Office Supplies",2013-11-30,73,118.43
+"Office Supplies",2013-12-01,22,115.53
+"Office Supplies",2013-12-02,124,116.27
+"Office Supplies",2013-12-03,124,114.53
+"Office Supplies",2013-12-04,160,118.27
+"Office Supplies",2013-12-05,93,117.50
+"Office Supplies",2013-12-06,189,119.13
+"Office Supplies",2013-12-07,152,118.17
+"Office Supplies",2013-12-08,7,115.57
+"Office Supplies",2013-12-09,150,116.60
+"Office Supplies",2013-12-10,123,117.10
+"Office Supplies",2013-12-11,181,115.97
+"Office Supplies",2013-12-12,149,116.50
+"Office Supplies",2013-12-13,94,114.40
+"Office Supplies",2013-12-14,19,110.53
+"Office Supplies",2013-12-15,23,105.57
+"Office Supplies",2013-12-16,125,108.37
+"Office Supplies",2013-12-17,110,111.47
+"Office Supplies",2013-12-18,167,112.30
+"Office Supplies",2013-12-19,202,113.07
+"Office Supplies",2013-12-20,159,114.17
+"Office Supplies",2013-12-21,34,110.87
+"Office Supplies",2013-12-22,22,106.27
+"Office Supplies",2013-12-23,122,107.77
+"Office Supplies",2013-12-24,124,110.67
+"Office Supplies",2013-12-25,130,110.43
+"Office Supplies",2013-12-26,139,111.40
+"Office Supplies",2013-12-27,99,111.70
+"Office Supplies",2013-12-28,71,108.90
+"Office Supplies",2013-12-29,6,106.43
+"Office Supplies",2013-12-30,122,108.07
+"Office Supplies",2013-12-31,119,111.30
+"Office Supplies",2014-01-01,61,109.20
+"Office Supplies",2014-01-02,76,107.60
+"Office Supplies",2014-01-03,123,106.37
+"Office Supplies",2014-01-04,45,104.77
+"Office Supplies",2014-01-05,19,99.10
+"Office Supplies",2014-01-06,81,96.73
+"Office Supplies",2014-01-07,40,97.83
+"Office Supplies",2014-01-08,63,94.93
+"Office Supplies",2014-01-09,70,93.17
+"Office Supplies",2014-01-10,44,88.60
+"Office Supplies",2014-01-11,23,84.40
+"Office Supplies",2014-01-12,4,81.40
+"Office Supplies",2014-01-13,78,83.37
+"Office Supplies",2014-01-14,75,85.10
+"Office Supplies",2014-01-15,76,83.47
+"Office Supplies",2014-01-16,91,82.83
+"Office Supplies",2014-01-17,59,79.23
+"Office Supplies",2014-01-18,53,74.27
+"Office Supplies",2014-01-19,4,69.10
+"Office Supplies",2014-01-20,86,70.83
+"Office Supplies",2014-01-21,64,72.23
+"Office Supplies",2014-01-22,146,73.03
+"Office Supplies",2014-01-23,49,70.53
+"Office Supplies",2014-01-24,74,68.67
+"Office Supplies",2014-01-25,33,65.13
+"Office Supplies",2014-01-26,16,62.37
+"Office Supplies",2014-01-27,69,62.30
+"Office Supplies",2014-01-28,73,64.53
+"Office Supplies",2014-01-29,67,62.70
+"Office Supplies",2014-01-30,71,61.10
+"Office Supplies",2014-01-31,90,62.07
+"Office Supplies",2014-02-01,23,60.30
+"Office Supplies",2014-02-03,50,57.87
+"Office Supplies",2014-02-04,66,58.57
+"Office Supplies",2014-02-05,50,59.60
+"Office Supplies",2014-02-06,74,59.37
+"Office Supplies",2014-02-07,92,61.10
+"Office Supplies",2014-02-08,8,59.27
+"Office Supplies",2014-02-09,1,56.97
+"Office Supplies",2014-02-10,80,58.17
+"Office Supplies",2014-02-11,78,60.00
+"Office Supplies",2014-02-12,46,61.40
+"Office Supplies",2014-02-13,40,60.13
+"Office Supplies",2014-02-14,81,60.33
+"Office Supplies",2014-02-15,37,59.03
+"Office Supplies",2014-02-16,7,56.23
+"Office Supplies",2014-02-17,88,57.20
+"Office Supplies",2014-02-18,56,57.30
+"Office Supplies",2014-02-19,42,58.57
+"Office Supplies",2014-02-20,42,57.10
+"Office Supplies",2014-02-21,62,57.03
+"Office Supplies",2014-02-22,41,53.53
+"Office Supplies",2014-02-23,18,52.50
+"Office Supplies",2014-02-24,71,52.40
+"Office Supplies",2014-02-25,45,52.80
+"Office Supplies",2014-02-26,43,53.70
+"Office Supplies",2014-02-27,54,53.20
+"Office Supplies",2014-02-28,127,55.00
+"Office Supplies",2014-03-01,25,53.60
+"Office Supplies",2014-03-02,20,51.90
+"Office Supplies",2014-03-03,108,52.50
+"Office Supplies",2014-03-04,104,55.20
+"Office Supplies",2014-03-05,66,55.73
+"Office Supplies",2014-03-06,101,56.90
+"Office Supplies",2014-03-07,93,58.33
+"Office Supplies",2014-03-08,33,56.97
+"Office Supplies",2014-03-09,18,54.50
+"Office Supplies",2014-03-10,91,57.27
+"Office Supplies",2014-03-11,59,59.20
+"Office Supplies",2014-03-12,100,59.87
+"Office Supplies",2014-03-13,58,59.20
+"Office Supplies",2014-03-14,116,61.53
+"Office Supplies",2014-03-15,48,61.80
+"Office Supplies",2014-03-16,5,59.27
+"Office Supplies",2014-03-17,104,61.50
+"Office Supplies",2014-03-18,135,65.77
+"Office Supplies",2014-03-19,125,67.00
+"Office Supplies",2014-03-20,133,69.57
+"Office Supplies",2014-03-21,94,71.30
+"Office Supplies",2014-03-22,67,72.13
+"Office Supplies",2014-03-23,5,70.23
+"Office Supplies",2014-03-24,76,71.40
+"Office Supplies",2014-03-25,81,73.50
+"Office Supplies",2014-03-26,70,73.47
+"Office Supplies",2014-03-27,103,75.40
+"Office Supplies",2014-03-28,99,77.27
+"Office Supplies",2014-03-29,30,76.47
+"Office Supplies",2014-03-30,12,72.63
+"Office Supplies",2014-03-31,119,75.77
+"Office Supplies",2014-04-01,129,79.40
+"Office Supplies",2014-04-02,151,80.83
+"Office Supplies",2014-04-03,72,79.77
+"Office Supplies",2014-04-04,56,79.43
+"Office Supplies",2014-04-05,20,76.73
+"Office Supplies",2014-04-06,19,74.27
+"Office Supplies",2014-04-07,105,76.67
+"Office Supplies",2014-04-08,43,77.50
+"Office Supplies",2014-04-09,114,78.27
+"Office Supplies",2014-04-10,85,79.13
+"Office Supplies",2014-04-11,74,78.27
+"Office Supplies",2014-04-12,44,77.80
+"Office Supplies",2014-04-13,15,74.43
+"Office Supplies",2014-04-14,86,75.70
+"Office Supplies",2014-04-15,102,78.93
+"Office Supplies",2014-04-16,110,79.13
+"Office Supplies",2014-04-17,130,78.97
+"Office Supplies",2014-04-18,102,78.20
+"Office Supplies",2014-04-19,32,74.83
+"Office Supplies",2014-04-21,95,74.87
+"Office Supplies",2014-04-22,82,75.37
+"Office Supplies",2014-04-23,58,77.13
+"Office Supplies",2014-04-24,77,77.17
+"Office Supplies",2014-04-25,71,76.83
+"Office Supplies",2014-04-26,61,76.53
+"Office Supplies",2014-04-27,25,73.93
+"Office Supplies",2014-04-28,78,73.23
+"Office Supplies",2014-04-29,43,73.67
+"Office Supplies",2014-04-30,125,77.43
+"Office Supplies",2014-05-01,92,76.53
+"Office Supplies",2014-05-02,73,74.67
+"Office Supplies",2014-05-03,52,71.37
+"Office Supplies",2014-05-04,45,70.47
+"Office Supplies",2014-05-05,94,71.73
+"Office Supplies",2014-05-06,88,74.00
+"Office Supplies",2014-05-07,190,79.70
+"Office Supplies",2014-05-08,134,80.67
+"Office Supplies",2014-05-09,121,83.27
+"Office Supplies",2014-05-10,62,81.53
+"Office Supplies",2014-05-11,14,79.17
+"Office Supplies",2014-05-12,83,79.47
+"Office Supplies",2014-05-13,92,81.07
+"Office Supplies",2014-05-14,107,84.13
+"Office Supplies",2014-05-15,163,86.70
+"Office Supplies",2014-05-16,81,86.00
+"Office Supplies",2014-05-17,25,83.17
+"Office Supplies",2014-05-18,5,79.00
+"Office Supplies",2014-05-19,155,80.77
+"Office Supplies",2014-05-20,108,83.30
+"Office Supplies",2014-05-21,130,84.47
+"Office Supplies",2014-05-22,71,84.10
+"Office Supplies",2014-05-23,103,85.60
+"Office Supplies",2014-05-24,44,84.50
+"Office Supplies",2014-05-25,15,82.63
+"Office Supplies",2014-05-26,101,83.97
+"Office Supplies",2014-05-27,89,86.10
+"Office Supplies",2014-05-28,83,86.27
+"Office Supplies",2014-05-29,113,88.60
+"Office Supplies",2014-05-30,88,87.37
+"Office Supplies",2014-05-31,50,85.97
+"Office Supplies",2014-06-01,6,83.73
+"Office Supplies",2014-06-02,117,85.90
+"Office Supplies",2014-06-03,192,90.80
+"Office Supplies",2014-06-04,158,92.93
+"Office Supplies",2014-06-05,165,95.50
+"Office Supplies",2014-06-06,122,93.23
+"Office Supplies",2014-06-07,33,89.87
+"Office Supplies",2014-06-08,36,87.03
+"Office Supplies",2014-06-09,175,90.80
+"Office Supplies",2014-06-10,139,94.97
+"Office Supplies",2014-06-11,182,98.27
+"Office Supplies",2014-06-12,165,100.70
+"Office Supplies",2014-06-13,111,100.83
+"Office Supplies",2014-06-14,94,98.53
+"Office Supplies",2014-06-15,21,96.53
+"Office Supplies",2014-06-16,142,100.43
+"Office Supplies",2014-06-17,159,105.57
+"Office Supplies",2014-06-18,309,110.70
+"Office Supplies",2014-06-19,110,110.77
+"Office Supplies",2014-06-20,80,109.10
+"Office Supplies",2014-06-21,88,109.67
+"Office Supplies",2014-06-22,46,107.77
+"Office Supplies",2014-06-23,177,112.20
+"Office Supplies",2014-06-24,158,116.97
+"Office Supplies",2014-06-25,168,119.20
+"Office Supplies",2014-06-26,154,121.37
+"Office Supplies",2014-06-27,173,124.37
+"Office Supplies",2014-06-28,72,123.00
+"Office Supplies",2014-06-29,12,120.47
+"Office Supplies",2014-06-30,200,125.47
+"Office Supplies",2014-07-01,81,127.97
+"Office Supplies",2014-07-02,63,126.17
+"Office Supplies",2014-07-03,120,123.77
+"Office Supplies",2014-07-04,83,121.27
+"Office Supplies",2014-07-05,50,117.43
+"Office Supplies",2014-07-06,29,114.33
+"Office Supplies",2014-07-07,47,114.80
+"Office Supplies",2014-07-08,59,115.57
+"Office Supplies",2014-07-09,114,113.53
+"Office Supplies",2014-07-10,133,113.33
+"Office Supplies",2014-07-11,97,110.50
+"Office Supplies",2014-07-12,48,106.60
+"Office Supplies",2014-07-13,5,103.07
+"Office Supplies",2014-07-14,98,103.20
+"Office Supplies",2014-07-15,67,104.73
+"Office Supplies",2014-07-16,87,102.90
+"Office Supplies",2014-07-17,63,99.70
+"Office Supplies",2014-07-18,36,90.60
+"Office Supplies",2014-07-19,33,88.03
+"Office Supplies",2014-07-21,97,88.60
+"Office Supplies",2014-07-22,129,89.97
+"Office Supplies",2014-07-23,52,90.17
+"Office Supplies",2014-07-24,130,88.60
+"Office Supplies",2014-07-25,64,85.47
+"Office Supplies",2014-07-26,64,82.00
+"Office Supplies",2014-07-27,17,77.43
+"Office Supplies",2014-07-28,81,74.37
+"Office Supplies",2014-07-29,44,73.43
+"Office Supplies",2014-07-30,74,75.50
+"Office Supplies",2014-07-31,77,71.40
+"Office Supplies",2014-08-01,120,72.70
+"Office Supplies",2014-08-02,121,74.63
+"Office Supplies",2014-08-03,20,71.30
+"Office Supplies",2014-08-04,153,73.63
+"Office Supplies",2014-08-05,131,76.33
+"Office Supplies",2014-08-06,125,79.53
+"Office Supplies",2014-08-07,152,83.03
+"Office Supplies",2014-08-08,168,86.67
+"Office Supplies",2014-08-09,90,85.87
+"Office Supplies",2014-08-11,141,86.13
+"Office Supplies",2014-08-12,200,89.57
+"Office Supplies",2014-08-13,194,94.43
+"Office Supplies",2014-08-14,179,100.23
+"Office Supplies",2014-08-15,109,100.60
+"Office Supplies",2014-08-16,122,102.43
+"Office Supplies",2014-08-17,7,99.77
+"Office Supplies",2014-08-18,191,104.03
+"Office Supplies",2014-08-19,182,108.90
+"Office Supplies",2014-08-20,150,112.80
+"Office Supplies",2014-08-21,110,113.23
+"Office Supplies",2014-08-22,183,115.03
+"Office Supplies",2014-08-23,34,114.43
+"Office Supplies",2014-08-24,18,110.70
+"Office Supplies",2014-08-25,124,112.70
+"Office Supplies",2014-08-26,155,115.73
+"Office Supplies",2014-08-27,122,119.23
+"Office Supplies",2014-08-28,169,122.17
+"Office Supplies",2014-08-29,135,125.20
+"Office Supplies",2014-08-30,62,124.80
+"Office Supplies",2014-08-31,12,122.63
+"Office Supplies",2014-09-01,162,124.03
+"Office Supplies",2014-09-02,103,123.43
+"Office Supplies",2014-09-03,223,130.20
+"Office Supplies",2014-09-04,138,129.70
+"Office Supplies",2014-09-05,232,133.07
+"Office Supplies",2014-09-06,103,132.33
+"Office Supplies",2014-09-07,2,127.33
+"Office Supplies",2014-09-08,201,128.43
+"Office Supplies",2014-09-09,150,130.43
+"Office Supplies",2014-09-10,145,130.57
+"Office Supplies",2014-09-11,173,129.67
+"Office Supplies",2014-09-12,186,129.40
+"Office Supplies",2014-09-13,62,125.50
+"Office Supplies",2014-09-14,13,122.30
+"Office Supplies",2014-09-15,132,122.63
+"Office Supplies",2014-09-16,185,128.57
+"Office Supplies",2014-09-17,149,127.17
+"Office Supplies",2014-09-18,169,126.73
+"Office Supplies",2014-09-19,155,126.90
+"Office Supplies",2014-09-20,97,126.47
+"Office Supplies",2014-09-21,26,121.23
+"Office Supplies",2014-09-22,112,123.83
+"Office Supplies",2014-09-23,216,130.43
+"Office Supplies",2014-09-24,97,129.53
+"Office Supplies",2014-09-25,260,133.03
+"Office Supplies",2014-09-26,252,137.37
+"Office Supplies",2014-09-27,89,134.70
+"Office Supplies",2014-09-28,42,131.60
+"Office Supplies",2014-09-29,129,133.83
+"Office Supplies",2014-09-30,133,137.87
+"Office Supplies",2014-10-01,115,136.30
+"Office Supplies",2014-10-02,172,138.60
+"Office Supplies",2014-10-03,161,136.53
+"Office Supplies",2014-10-04,75,134.43
+"Office Supplies",2014-10-05,23,127.47
+"Office Supplies",2014-10-06,123,128.13
+"Office Supplies",2014-10-07,138,132.67
+"Office Supplies",2014-10-08,100,129.30
+"Office Supplies",2014-10-09,78,126.90
+"Office Supplies",2014-10-10,101,125.43
+"Office Supplies",2014-10-11,34,120.80
+"Office Supplies",2014-10-12,26,115.47
+"Office Supplies",2014-10-13,168,119.00
+"Office Supplies",2014-10-14,135,123.07
+"Office Supplies",2014-10-15,76,121.20
+"Office Supplies",2014-10-16,152,120.10
+"Office Supplies",2014-10-17,191,121.50
+"Office Supplies",2014-10-18,33,116.97
+"Office Supplies",2014-10-19,27,112.70
+"Office Supplies",2014-10-20,161,114.83
+"Office Supplies",2014-10-21,157,119.20
+"Office Supplies",2014-10-22,225,122.97
+"Office Supplies",2014-10-23,139,120.40
+"Office Supplies",2014-10-24,144,121.97
+"Office Supplies",2014-10-25,56,115.17
+"Office Supplies",2014-10-27,104,110.23
+"Office Supplies",2014-10-28,142,112.00
+"Office Supplies",2014-10-29,140,115.27
+"Office Supplies",2014-10-30,134,115.43
+"Office Supplies",2014-10-31,154,116.13
+"Office Supplies",2014-11-01,28,113.23
+"Office Supplies",2014-11-02,18,108.10
+"Office Supplies",2014-11-03,187,108.97
+"Office Supplies",2014-11-04,140,111.13
+"Office Supplies",2014-11-05,157,115.60
+"Office Supplies",2014-11-06,178,117.43
+"Office Supplies",2014-11-07,232,120.57
+"Office Supplies",2014-11-08,90,120.23
+"Office Supplies",2014-11-09,8,117.90
+"Office Supplies",2014-11-10,171,120.23
+"Office Supplies",2014-11-11,122,123.17
+"Office Supplies",2014-11-12,234,130.10
+"Office Supplies",2014-11-13,244,132.63
+"Office Supplies",2014-11-14,211,135.17
+"Office Supplies",2014-11-15,74,135.10
+"Office Supplies",2014-11-16,18,130.63
+"Office Supplies",2014-11-17,216,131.47
+"Office Supplies",2014-11-18,288,139.97
+"Office Supplies",2014-11-19,228,146.67
+"Office Supplies",2014-11-20,272,150.37
+"Office Supplies",2014-11-21,216,152.33
+"Office Supplies",2014-11-22,116,148.70
+"Office Supplies",2014-11-23,30,145.07
+"Office Supplies",2014-11-24,125,144.43
+"Office Supplies",2014-11-25,257,151.13
+"Office Supplies",2014-11-26,195,154.17
+"Office Supplies",2014-11-27,230,157.10
+"Office Supplies",2014-11-28,233,160.20
+"Office Supplies",2014-11-29,93,158.83
+"Office Supplies",2014-11-30,45,155.20
+"Office Supplies",2014-12-01,154,159.40
+"Office Supplies",2014-12-02,248,167.07
+"Office Supplies",2014-12-03,229,168.47
+"Office Supplies",2014-12-04,171,169.50
+"Office Supplies",2014-12-05,156,169.47
+"Office Supplies",2014-12-06,115,167.37
+"Office Supplies",2014-12-07,4,159.77
+"Office Supplies",2014-12-08,100,160.10
+"Office Supplies",2014-12-09,176,165.70
+"Office Supplies",2014-12-10,256,168.53
+"Office Supplies",2014-12-11,140,169.13
+"Office Supplies",2014-12-12,158,166.60
+"Office Supplies",2014-12-13,142,163.20
+"Office Supplies",2014-12-14,21,156.87
+"Office Supplies",2014-12-15,184,160.53
+"Office Supplies",2014-12-16,161,165.30
+"Office Supplies",2014-12-17,126,162.30
+"Office Supplies",2014-12-18,140,157.37
+"Office Supplies",2014-12-19,245,157.93
+"Office Supplies",2014-12-20,50,150.53
+"Office Supplies",2014-12-21,17,143.90
+"Office Supplies",2014-12-22,90,143.03
+"Office Supplies",2014-12-23,214,149.17
+"Office Supplies",2014-12-24,176,150.87
+"Office Supplies",2014-12-25,147,147.20
+"Office Supplies",2014-12-26,206,147.57
+"Office Supplies",2014-12-27,124,144.03
+"Office Supplies",2014-12-28,39,137.57
+"Office Supplies",2014-12-29,262,143.20
+"Office Supplies",2014-12-30,165,147.20
+"Office Supplies",2014-12-31,129,146.37
+Technology,2011-01-02,1,1.00
+Technology,2011-01-03,11,6.00
+Technology,2011-01-04,8,6.67
+Technology,2011-01-06,1,5.25
+Technology,2011-01-07,19,8.00
+Technology,2011-01-08,7,7.83
+Technology,2011-01-09,10,8.14
+Technology,2011-01-10,18,9.38
+Technology,2011-01-11,12,9.67
+Technology,2011-01-12,8,9.50
+Technology,2011-01-13,5,9.09
+Technology,2011-01-14,15,9.58
+Technology,2011-01-15,2,9.00
+Technology,2011-01-16,5,8.71
+Technology,2011-01-17,14,9.07
+Technology,2011-01-19,10,9.13
+Technology,2011-01-21,15,9.47
+Technology,2011-01-22,3,9.11
+Technology,2011-01-24,7,9.00
+Technology,2011-01-25,6,8.85
+Technology,2011-01-26,9,8.86
+Technology,2011-01-27,22,9.45
+Technology,2011-01-28,2,9.13
+Technology,2011-01-30,3,8.88
+Technology,2011-01-31,7,8.80
+Technology,2011-02-01,4,8.62
+Technology,2011-02-02,34,9.56
+Technology,2011-02-03,6,9.43
+Technology,2011-02-04,5,9.28
+Technology,2011-02-07,12,9.37
+Technology,2011-02-08,7,9.57
+Technology,2011-02-09,9,9.50
+Technology,2011-02-10,22,9.97
+Technology,2011-02-11,13,10.37
+Technology,2011-02-12,3,9.83
+Technology,2011-02-14,17,10.17
+Technology,2011-02-15,24,10.63
+Technology,2011-02-16,18,10.63
+Technology,2011-02-17,3,10.33
+Technology,2011-02-18,10,10.40
+Technology,2011-02-21,15,10.73
+Technology,2011-02-22,12,10.63
+Technology,2011-02-23,7,10.80
+Technology,2011-02-24,24,11.43
+Technology,2011-02-25,13,11.40
+Technology,2011-02-26,26,11.93
+Technology,2011-02-27,8,11.70
+Technology,2011-02-28,7,11.83
+Technology,2011-03-01,24,12.40
+Technology,2011-03-02,6,12.40
+Technology,2011-03-03,35,13.27
+Technology,2011-03-04,6,12.73
+Technology,2011-03-05,3,12.77
+Technology,2011-03-07,11,13.03
+Technology,2011-03-08,42,14.20
+Technology,2011-03-09,1,14.10
+Technology,2011-03-10,9,13.27
+Technology,2011-03-11,18,13.67
+Technology,2011-03-12,4,13.63
+Technology,2011-03-14,15,13.73
+Technology,2011-03-15,9,13.80
+Technology,2011-03-16,4,13.63
+Technology,2011-03-17,5,13.07
+Technology,2011-03-18,15,13.13
+Technology,2011-03-19,11,13.40
+Technology,2011-03-21,28,13.77
+Technology,2011-03-22,7,13.20
+Technology,2011-03-23,17,13.17
+Technology,2011-03-24,2,13.13
+Technology,2011-03-25,15,13.30
+Technology,2011-03-26,5,12.97
+Technology,2011-03-28,16,13.10
+Technology,2011-03-29,7,13.10
+Technology,2011-03-30,23,13.07
+Technology,2011-03-31,5,12.80
+Technology,2011-04-01,14,12.40
+Technology,2011-04-02,32,13.20
+Technology,2011-04-03,7,13.20
+Technology,2011-04-04,24,13.20
+Technology,2011-04-05,7,13.23
+Technology,2011-04-06,10,12.40
+Technology,2011-04-07,9,12.50
+Technology,2011-04-08,16,12.93
+Technology,2011-04-11,39,13.87
+Technology,2011-04-12,21,13.17
+Technology,2011-04-13,22,13.87
+Technology,2011-04-14,13,14.00
+Technology,2011-04-15,1,13.43
+Technology,2011-04-16,13,13.73
+Technology,2011-04-18,28,14.17
+Technology,2011-04-19,8,14.13
+Technology,2011-04-20,20,14.67
+Technology,2011-04-21,16,15.03
+Technology,2011-04-22,14,15.00
+Technology,2011-04-23,1,14.67
+Technology,2011-04-25,22,14.47
+Technology,2011-04-26,22,14.97
+Technology,2011-04-27,8,14.67
+Technology,2011-04-28,12,15.00
+Technology,2011-04-29,7,14.73
+Technology,2011-04-30,3,14.67
+Technology,2011-05-02,18,14.73
+Technology,2011-05-03,16,15.03
+Technology,2011-05-04,12,14.67
+Technology,2011-05-05,6,14.70
+Technology,2011-05-06,14,14.70
+Technology,2011-05-07,2,13.70
+Technology,2011-05-08,8,13.73
+Technology,2011-05-09,33,14.03
+Technology,2011-05-10,30,14.80
+Technology,2011-05-11,5,14.63
+Technology,2011-05-12,8,14.60
+Technology,2011-05-13,23,14.83
+Technology,2011-05-14,2,13.60
+Technology,2011-05-15,3,13.00
+Technology,2011-05-16,8,12.53
+Technology,2011-05-17,15,12.60
+Technology,2011-05-18,20,13.23
+Technology,2011-05-19,5,12.97
+Technology,2011-05-20,2,12.10
+Technology,2011-05-21,16,12.37
+Technology,2011-05-22,3,11.80
+Technology,2011-05-23,33,12.37
+Technology,2011-05-24,25,12.73
+Technology,2011-05-25,13,13.13
+Technology,2011-05-26,10,12.73
+Technology,2011-05-27,27,12.90
+Technology,2011-05-28,18,13.23
+Technology,2011-05-30,32,13.90
+Technology,2011-05-31,44,15.13
+Technology,2011-06-01,39,16.33
+Technology,2011-06-02,44,17.20
+Technology,2011-06-03,20,17.33
+Technology,2011-06-04,10,17.27
+Technology,2011-06-05,5,17.23
+Technology,2011-06-06,28,17.70
+Technology,2011-06-07,35,18.80
+Technology,2011-06-08,41,19.90
+Technology,2011-06-09,21,19.50
+Technology,2011-06-10,17,19.07
+Technology,2011-06-13,20,19.57
+Technology,2011-06-14,13,19.73
+Technology,2011-06-15,11,19.33
+Technology,2011-06-16,10,19.60
+Technology,2011-06-17,23,20.27
+Technology,2011-06-18,30,21.00
+Technology,2011-06-20,29,21.47
+Technology,2011-06-21,33,21.90
+Technology,2011-06-22,44,23.20
+Technology,2011-06-23,17,23.70
+Technology,2011-06-24,27,24.07
+Technology,2011-06-25,22,24.70
+Technology,2011-06-27,31,24.63
+Technology,2011-06-28,9,24.10
+Technology,2011-06-29,23,24.43
+Technology,2011-06-30,11,24.47
+Technology,2011-07-01,2,23.63
+Technology,2011-07-02,4,23.17
+Technology,2011-07-04,1,22.13
+Technology,2011-07-05,13,21.10
+Technology,2011-07-06,11,20.17
+Technology,2011-07-07,22,19.43
+Technology,2011-07-08,10,19.10
+Technology,2011-07-09,1,18.80
+Technology,2011-07-11,23,19.40
+Technology,2011-07-12,25,19.30
+Technology,2011-07-13,6,18.33
+Technology,2011-07-14,17,17.53
+Technology,2011-07-15,10,17.17
+Technology,2011-07-16,5,16.77
+Technology,2011-07-17,2,16.17
+Technology,2011-07-18,6,15.93
+Technology,2011-07-19,17,16.13
+Technology,2011-07-20,20,16.47
+Technology,2011-07-21,20,16.37
+Technology,2011-07-22,6,15.57
+Technology,2011-07-23,41,15.97
+Technology,2011-07-25,7,15.10
+Technology,2011-07-26,37,14.87
+Technology,2011-07-27,41,15.67
+Technology,2011-07-28,2,14.83
+Technology,2011-07-29,8,14.37
+Technology,2011-07-30,3,13.43
+Technology,2011-07-31,3,13.23
+Technology,2011-08-01,20,13.13
+Technology,2011-08-02,13,13.20
+Technology,2011-08-03,20,13.80
+Technology,2011-08-04,47,15.23
+Technology,2011-08-05,17,15.77
+Technology,2011-08-06,7,15.57
+Technology,2011-08-08,40,16.53
+Technology,2011-08-09,25,16.63
+Technology,2011-08-10,29,17.27
+Technology,2011-08-11,32,18.30
+Technology,2011-08-12,70,19.87
+Technology,2011-08-13,2,19.10
+Technology,2011-08-15,20,19.57
+Technology,2011-08-16,25,19.83
+Technology,2011-08-17,11,19.87
+Technology,2011-08-18,43,21.13
+Technology,2011-08-19,9,21.37
+Technology,2011-08-21,3,21.27
+Technology,2011-08-22,28,21.63
+Technology,2011-08-23,19,21.60
+Technology,2011-08-24,21,21.63
+Technology,2011-08-25,46,22.97
+Technology,2011-08-26,15,22.10
+Technology,2011-08-27,20,22.53
+Technology,2011-08-29,22,22.03
+Technology,2011-08-30,17,21.23
+Technology,2011-08-31,14,21.63
+Technology,2011-09-01,14,21.83
+Technology,2011-09-02,35,22.90
+Technology,2011-09-03,2,22.87
+Technology,2011-09-05,9,22.50
+Technology,2011-09-06,35,23.23
+Technology,2011-09-07,27,23.47
+Technology,2011-09-08,43,23.33
+Technology,2011-09-09,22,23.50
+Technology,2011-09-10,3,23.37
+Technology,2011-09-11,3,22.13
+Technology,2011-09-12,42,22.70
+Technology,2011-09-13,22,22.47
+Technology,2011-09-14,46,22.93
+Technology,2011-09-15,16,21.13
+Technology,2011-09-16,12,21.47
+Technology,2011-09-17,17,21.37
+Technology,2011-09-18,1,20.57
+Technology,2011-09-19,25,21.03
+Technology,2011-09-20,41,20.97
+Technology,2011-09-21,18,21.27
+Technology,2011-09-22,15,21.67
+Technology,2011-09-23,12,21.13
+Technology,2011-09-24,5,20.67
+Technology,2011-09-25,10,20.30
+Technology,2011-09-26,36,19.97
+Technology,2011-09-27,33,20.57
+Technology,2011-09-28,15,20.40
+Technology,2011-09-29,2,19.73
+Technology,2011-09-30,7,19.40
+Technology,2011-10-01,6,19.13
+Technology,2011-10-02,6,18.87
+Technology,2011-10-03,29,18.67
+Technology,2011-10-04,34,19.73
+Technology,2011-10-05,10,19.77
+Technology,2011-10-06,38,19.87
+Technology,2011-10-07,36,20.17
+Technology,2011-10-08,15,19.23
+Technology,2011-10-09,1,18.53
+Technology,2011-10-10,40,19.77
+Technology,2011-10-11,10,20.00
+Technology,2011-10-12,11,18.97
+Technology,2011-10-13,17,18.80
+Technology,2011-10-14,36,18.47
+Technology,2011-10-15,14,18.40
+Technology,2011-10-16,8,18.27
+Technology,2011-10-17,11,18.07
+Technology,2011-10-18,19,18.67
+Technology,2011-10-19,28,18.77
+Technology,2011-10-20,13,17.83
+Technology,2011-10-21,8,17.50
+Technology,2011-10-22,7,17.23
+Technology,2011-10-24,10,17.17
+Technology,2011-10-25,26,17.87
+Technology,2011-10-26,20,18.20
+Technology,2011-10-27,35,18.17
+Technology,2011-10-28,8,17.33
+Technology,2011-10-29,9,17.13
+Technology,2011-10-31,19,17.70
+Technology,2011-11-01,53,19.23
+Technology,2011-11-02,51,20.73
+Technology,2011-11-03,27,21.43
+Technology,2011-11-04,53,22.23
+Technology,2011-11-05,29,22.07
+Technology,2011-11-06,5,21.90
+Technology,2011-11-07,23,21.40
+Technology,2011-11-08,12,20.60
+Technology,2011-11-09,34,21.23
+Technology,2011-11-10,23,21.97
+Technology,2011-11-11,64,22.77
+Technology,2011-11-12,5,22.60
+Technology,2011-11-14,30,23.23
+Technology,2011-11-15,27,23.57
+Technology,2011-11-16,16,22.90
+Technology,2011-11-17,20,23.10
+Technology,2011-11-18,22,23.57
+Technology,2011-11-19,37,24.43
+Technology,2011-11-20,6,24.00
+Technology,2011-11-21,23,23.83
+Technology,2011-11-22,17,23.97
+Technology,2011-11-23,37,24.93
+Technology,2011-11-24,28,25.63
+Technology,2011-11-25,61,27.33
+Technology,2011-11-26,20,27.13
+Technology,2011-11-28,29,27.43
+Technology,2011-11-29,35,27.43
+Technology,2011-11-30,23,27.93
+Technology,2011-12-01,27,28.53
+Technology,2011-12-02,32,28.97
+Technology,2011-12-03,28,28.13
+Technology,2011-12-04,2,26.50
+Technology,2011-12-05,53,27.37
+Technology,2011-12-06,31,26.63
+Technology,2011-12-07,15,26.17
+Technology,2011-12-08,51,27.70
+Technology,2011-12-09,38,28.20
+Technology,2011-12-10,11,28.17
+Technology,2011-12-11,3,27.13
+Technology,2011-12-12,13,26.80
+Technology,2011-12-13,27,25.57
+Technology,2011-12-14,35,26.57
+Technology,2011-12-15,39,26.87
+Technology,2011-12-16,39,27.27
+Technology,2011-12-17,20,27.40
+Technology,2011-12-19,35,27.90
+Technology,2011-12-20,55,29.00
+Technology,2011-12-21,21,28.47
+Technology,2011-12-22,41,29.63
+Technology,2011-12-23,40,30.20
+Technology,2011-12-24,21,30.33
+Technology,2011-12-25,2,29.17
+Technology,2011-12-26,29,29.20
+Technology,2011-12-27,43,28.60
+Technology,2011-12-28,82,30.67
+Technology,2011-12-29,54,31.50
+Technology,2011-12-30,29,31.30
+Technology,2011-12-31,27,31.43
+Technology,2012-01-02,36,31.73
+Technology,2012-01-03,11,31.03
+Technology,2012-01-04,11,30.47
+Technology,2012-01-05,20,31.07
+Technology,2012-01-06,2,29.37
+Technology,2012-01-07,6,28.53
+Technology,2012-01-09,10,28.37
+Technology,2012-01-10,8,26.93
+Technology,2012-01-11,18,26.27
+Technology,2012-01-12,24,26.70
+Technology,2012-01-13,22,27.33
+Technology,2012-01-14,12,27.30
+Technology,2012-01-16,34,27.53
+Technology,2012-01-17,16,26.90
+Technology,2012-01-18,5,25.77
+Technology,2012-01-19,7,24.70
+Technology,2012-01-20,5,24.20
+Technology,2012-01-21,3,23.13
+Technology,2012-01-22,1,21.33
+Technology,2012-01-23,26,21.50
+Technology,2012-01-24,15,20.63
+Technology,2012-01-25,2,19.37
+Technology,2012-01-26,12,19.07
+Technology,2012-01-27,20,19.67
+Technology,2012-01-28,14,19.17
+Technology,2012-01-30,3,17.83
+Technology,2012-01-31,6,15.30
+Technology,2012-02-01,17,14.07
+Technology,2012-02-02,28,14.03
+Technology,2012-02-03,3,13.23
+Technology,2012-02-04,12,12.43
+Technology,2012-02-06,7,12.30
+Technology,2012-02-07,9,12.23
+Technology,2012-02-08,9,11.87
+Technology,2012-02-09,22,12.53
+Technology,2012-02-10,16,12.87
+Technology,2012-02-13,19,13.17
+Technology,2012-02-14,22,13.63
+Technology,2012-02-15,38,14.30
+Technology,2012-02-16,5,13.67
+Technology,2012-02-17,22,13.67
+Technology,2012-02-18,19,13.90
+Technology,2012-02-20,5,12.93
+Technology,2012-02-21,12,12.80
+Technology,2012-02-22,11,13.00
+Technology,2012-02-23,8,13.03
+Technology,2012-02-24,11,13.23
+Technology,2012-02-25,4,13.27
+Technology,2012-02-27,13,13.67
+Technology,2012-02-28,19,13.43
+Technology,2012-02-29,5,13.10
+Technology,2012-03-01,16,13.57
+Technology,2012-03-02,23,13.93
+Technology,2012-03-05,20,13.93
+Technology,2012-03-06,7,13.70
+Technology,2012-03-07,30,14.60
+Technology,2012-03-08,7,14.63
+Technology,2012-03-09,18,14.67
+Technology,2012-03-10,14,14.20
+Technology,2012-03-12,15,14.60
+Technology,2012-03-13,19,14.83
+Technology,2012-03-14,23,15.37
+Technology,2012-03-15,38,16.33
+Technology,2012-03-16,24,16.83
+Technology,2012-03-17,1,16.13
+Technology,2012-03-19,13,16.03
+Technology,2012-03-20,43,16.83
+Technology,2012-03-21,16,16.63
+Technology,2012-03-22,20,16.03
+Technology,2012-03-23,23,16.63
+Technology,2012-03-24,2,15.97
+Technology,2012-03-26,24,16.13
+Technology,2012-03-27,29,16.93
+Technology,2012-03-28,4,16.67
+Technology,2012-03-29,10,16.63
+Technology,2012-03-30,13,16.80
+Technology,2012-03-31,12,16.83
+Technology,2012-04-01,7,16.93
+Technology,2012-04-02,34,17.63
+Technology,2012-04-03,3,17.10
+Technology,2012-04-04,12,17.33
+Technology,2012-04-05,32,17.87
+Technology,2012-04-06,26,17.97
+Technology,2012-04-07,19,17.93
+Technology,2012-04-09,16,18.23
+Technology,2012-04-10,15,17.73
+Technology,2012-04-11,12,17.90
+Technology,2012-04-12,16,17.83
+Technology,2012-04-13,38,18.63
+Technology,2012-04-14,11,18.50
+Technology,2012-04-15,12,18.27
+Technology,2012-04-16,33,18.60
+Technology,2012-04-17,23,18.10
+Technology,2012-04-18,48,18.90
+Technology,2012-04-19,10,19.20
+Technology,2012-04-20,27,19.67
+Technology,2012-04-21,10,18.57
+Technology,2012-04-22,21,18.73
+Technology,2012-04-23,20,18.73
+Technology,2012-04-24,2,18.03
+Technology,2012-04-25,8,18.23
+Technology,2012-04-26,11,17.80
+Technology,2012-04-27,20,17.50
+Technology,2012-04-28,18,17.97
+Technology,2012-04-30,26,18.50
+Technology,2012-05-01,10,18.40
+Technology,2012-05-02,8,18.27
+Technology,2012-05-03,16,18.57
+Technology,2012-05-04,27,18.33
+Technology,2012-05-06,7,18.47
+Technology,2012-05-07,44,19.53
+Technology,2012-05-08,32,19.53
+Technology,2012-05-09,21,19.37
+Technology,2012-05-10,38,20.00
+Technology,2012-05-11,31,20.50
+Technology,2012-05-12,18,20.60
+Technology,2012-05-13,2,20.27
+Technology,2012-05-14,12,20.13
+Technology,2012-05-15,14,19.33
+Technology,2012-05-16,25,19.80
+Technology,2012-05-17,15,19.90
+Technology,2012-05-18,11,19.17
+Technology,2012-05-19,5,18.57
+Technology,2012-05-21,13,17.40
+Technology,2012-05-22,28,18.00
+Technology,2012-05-23,22,17.83
+Technology,2012-05-24,23,18.27
+Technology,2012-05-25,29,18.53
+Technology,2012-05-26,22,18.60
+Technology,2012-05-28,11,18.90
+Technology,2012-05-29,13,19.07
+Technology,2012-05-30,27,19.60
+Technology,2012-05-31,44,20.40
+Technology,2012-06-01,13,20.23
+Technology,2012-06-02,8,19.63
+Technology,2012-06-04,25,20.13
+Technology,2012-06-05,33,20.97
+Technology,2012-06-06,28,21.37
+Technology,2012-06-07,14,20.93
+Technology,2012-06-08,23,21.47
+Technology,2012-06-09,22,20.73
+Technology,2012-06-10,3,19.77
+Technology,2012-06-11,36,20.27
+Technology,2012-06-12,33,20.10
+Technology,2012-06-13,39,20.37
+Technology,2012-06-14,27,20.67
+Technology,2012-06-15,32,21.67
+Technology,2012-06-16,14,21.73
+Technology,2012-06-17,6,21.47
+Technology,2012-06-18,44,22.10
+Technology,2012-06-19,31,22.63
+Technology,2012-06-20,42,23.67
+Technology,2012-06-21,15,24.00
+Technology,2012-06-22,38,24.83
+Technology,2012-06-23,19,24.53
+Technology,2012-06-25,54,25.60
+Technology,2012-06-26,41,26.20
+Technology,2012-06-27,39,26.53
+Technology,2012-06-28,3,25.90
+Technology,2012-06-29,35,26.70
+Technology,2012-07-01,11,26.63
+Technology,2012-07-02,14,26.20
+Technology,2012-07-03,14,25.20
+Technology,2012-07-04,26,25.63
+Technology,2012-07-05,27,26.27
+Technology,2012-07-06,14,25.90
+Technology,2012-07-07,12,25.20
+Technology,2012-07-09,12,24.67
+Technology,2012-07-10,10,24.53
+Technology,2012-07-11,17,24.33
+Technology,2012-07-12,19,24.23
+Technology,2012-07-13,18,24.73
+Technology,2012-07-14,12,23.93
+Technology,2012-07-16,23,23.60
+Technology,2012-07-17,18,22.90
+Technology,2012-07-18,35,23.17
+Technology,2012-07-19,6,22.30
+Technology,2012-07-20,22,22.57
+Technology,2012-07-21,14,22.83
+Technology,2012-07-23,15,21.87
+Technology,2012-07-24,36,22.03
+Technology,2012-07-25,9,20.93
+Technology,2012-07-26,6,20.63
+Technology,2012-07-27,15,19.87
+Technology,2012-07-28,8,19.50
+Technology,2012-07-30,19,18.33
+Technology,2012-07-31,21,17.67
+Technology,2012-08-01,27,17.27
+Technology,2012-08-02,28,18.10
+Technology,2012-08-03,42,18.33
+Technology,2012-08-06,45,19.47
+Technology,2012-08-07,21,19.70
+Technology,2012-08-08,26,20.10
+Technology,2012-08-09,33,20.33
+Technology,2012-08-10,61,21.47
+Technology,2012-08-11,2,21.07
+Technology,2012-08-12,5,20.83
+Technology,2012-08-13,9,20.73
+Technology,2012-08-14,41,21.77
+Technology,2012-08-15,14,21.67
+Technology,2012-08-16,54,22.83
+Technology,2012-08-17,14,22.70
+Technology,2012-08-18,31,23.33
+Technology,2012-08-20,43,24.00
+Technology,2012-08-21,14,23.87
+Technology,2012-08-22,21,23.40
+Technology,2012-08-23,27,24.10
+Technology,2012-08-24,40,24.70
+Technology,2012-08-25,10,24.57
+Technology,2012-08-26,8,24.33
+Technology,2012-08-27,37,24.37
+Technology,2012-08-28,28,25.00
+Technology,2012-08-29,72,27.20
+Technology,2012-08-30,8,26.97
+Technology,2012-08-31,40,28.03
+Technology,2012-09-01,6,27.60
+Technology,2012-09-02,13,27.33
+Technology,2012-09-03,45,27.93
+Technology,2012-09-04,33,28.10
+Technology,2012-09-05,41,28.07
+Technology,2012-09-06,41,27.93
+Technology,2012-09-07,48,28.83
+Technology,2012-09-08,16,28.50
+Technology,2012-09-09,3,27.50
+Technology,2012-09-10,32,26.53
+Technology,2012-09-11,18,27.07
+Technology,2012-09-12,17,27.47
+Technology,2012-09-13,44,28.63
+Technology,2012-09-14,30,28.27
+Technology,2012-09-15,22,28.53
+Technology,2012-09-16,9,27.03
+Technology,2012-09-17,37,27.80
+Technology,2012-09-18,51,28.47
+Technology,2012-09-19,29,28.00
+Technology,2012-09-20,13,27.97
+Technology,2012-09-21,52,29.00
+Technology,2012-09-22,15,28.60
+Technology,2012-09-23,2,27.33
+Technology,2012-09-24,52,28.73
+Technology,2012-09-25,47,30.03
+Technology,2012-09-26,47,30.37
+Technology,2012-09-27,30,30.43
+Technology,2012-09-28,58,29.97
+Technology,2012-09-29,18,30.30
+Technology,2012-09-30,14,29.43
+Technology,2012-10-01,39,30.53
+Technology,2012-10-02,21,30.80
+Technology,2012-10-03,42,30.70
+Technology,2012-10-04,21,30.30
+Technology,2012-10-05,53,30.70
+Technology,2012-10-06,24,30.13
+Technology,2012-10-09,32,29.60
+Technology,2012-10-10,20,29.73
+Technology,2012-10-11,28,30.57
+Technology,2012-10-12,37,30.73
+Technology,2012-10-13,16,30.67
+Technology,2012-10-15,23,30.87
+Technology,2012-10-16,28,30.33
+Technology,2012-10-17,35,30.50
+Technology,2012-10-18,32,30.83
+Technology,2012-10-19,22,31.27
+Technology,2012-10-20,10,30.37
+Technology,2012-10-22,13,29.10
+Technology,2012-10-23,59,30.10
+Technology,2012-10-24,43,31.10
+Technology,2012-10-25,52,31.10
+Technology,2012-10-26,23,31.37
+Technology,2012-10-27,20,31.97
+Technology,2012-10-29,26,31.10
+Technology,2012-10-30,56,31.40
+Technology,2012-10-31,17,30.40
+Technology,2012-11-01,31,30.43
+Technology,2012-11-02,41,29.87
+Technology,2012-11-03,22,30.00
+Technology,2012-11-05,39,30.83
+Technology,2012-11-06,13,29.97
+Technology,2012-11-07,13,29.70
+Technology,2012-11-08,49,29.93
+Technology,2012-11-09,55,31.07
+Technology,2012-11-10,37,30.53
+Technology,2012-11-11,6,29.93
+Technology,2012-11-12,25,29.70
+Technology,2012-11-13,76,31.57
+Technology,2012-11-14,30,31.63
+Technology,2012-11-15,55,32.23
+Technology,2012-11-16,36,32.90
+Technology,2012-11-17,13,32.57
+Technology,2012-11-19,25,32.47
+Technology,2012-11-20,55,33.13
+Technology,2012-11-21,37,33.30
+Technology,2012-11-22,19,33.20
+Technology,2012-11-23,19,33.50
+Technology,2012-11-24,15,33.57
+Technology,2012-11-25,3,31.70
+Technology,2012-11-26,14,30.73
+Technology,2012-11-27,63,31.10
+Technology,2012-11-28,29,31.30
+Technology,2012-11-29,21,31.33
+Technology,2012-11-30,27,31.37
+Technology,2012-12-01,32,30.57
+Technology,2012-12-03,54,31.80
+Technology,2012-12-04,43,32.20
+Technology,2012-12-05,18,31.43
+Technology,2012-12-06,47,32.27
+Technology,2012-12-07,38,32.23
+Technology,2012-12-08,21,32.50
+Technology,2012-12-09,2,32.13
+Technology,2012-12-10,31,31.53
+Technology,2012-12-11,48,31.30
+Technology,2012-12-12,13,30.50
+Technology,2012-12-13,41,31.67
+Technology,2012-12-14,19,31.47
+Technology,2012-12-15,27,29.83
+Technology,2012-12-16,2,28.90
+Technology,2012-12-17,52,28.80
+Technology,2012-12-18,12,28.00
+Technology,2012-12-19,63,29.67
+Technology,2012-12-20,51,30.53
+Technology,2012-12-21,34,29.83
+Technology,2012-12-22,17,29.17
+Technology,2012-12-24,40,29.87
+Technology,2012-12-25,59,31.20
+Technology,2012-12-26,32,31.77
+Technology,2012-12-27,68,33.93
+Technology,2012-12-28,43,34.90
+Technology,2012-12-29,4,32.93
+Technology,2012-12-30,12,32.37
+Technology,2012-12-31,13,32.10
+Technology,2013-01-01,19,31.83
+Technology,2013-01-02,40,32.10
+Technology,2013-01-03,16,30.83
+Technology,2013-01-04,26,30.27
+Technology,2013-01-05,8,29.93
+Technology,2013-01-06,4,28.50
+Technology,2013-01-07,12,27.63
+Technology,2013-01-08,13,27.37
+Technology,2013-01-09,23,28.07
+Technology,2013-01-10,30,28.03
+Technology,2013-01-11,7,26.67
+Technology,2013-01-12,4,26.37
+Technology,2013-01-14,6,25.20
+Technology,2013-01-15,17,25.13
+Technology,2013-01-16,20,24.90
+Technology,2013-01-17,14,25.30
+Technology,2013-01-18,13,24.00
+Technology,2013-01-19,7,23.83
+Technology,2013-01-20,1,21.77
+Technology,2013-01-21,12,20.47
+Technology,2013-01-22,9,19.63
+Technology,2013-01-23,6,19.27
+Technology,2013-01-24,7,18.17
+Technology,2013-01-25,15,16.70
+Technology,2013-01-26,3,15.73
+Technology,2013-01-27,8,13.73
+Technology,2013-01-28,23,13.07
+Technology,2013-01-29,15,13.43
+Technology,2013-01-30,18,13.63
+Technology,2013-01-31,21,13.90
+Technology,2013-02-01,2,13.33
+Technology,2013-02-02,7,12.23
+Technology,2013-02-04,4,11.83
+Technology,2013-02-05,31,12.00
+Technology,2013-02-06,33,12.83
+Technology,2013-02-07,31,13.73
+Technology,2013-02-08,25,14.17
+Technology,2013-02-09,9,14.03
+Technology,2013-02-10,1,13.30
+Technology,2013-02-11,24,13.10
+Technology,2013-02-12,12,13.27
+Technology,2013-02-13,7,13.37
+Technology,2013-02-14,23,13.93
+Technology,2013-02-15,17,13.93
+Technology,2013-02-16,4,13.40
+Technology,2013-02-18,18,13.53
+Technology,2013-02-19,20,13.77
+Technology,2013-02-20,19,14.17
+Technology,2013-02-21,7,14.37
+Technology,2013-02-22,10,14.30
+Technology,2013-02-23,6,14.20
+Technology,2013-02-25,20,14.67
+Technology,2013-02-26,15,14.93
+Technology,2013-02-27,25,15.27
+Technology,2013-03-01,17,15.73
+Technology,2013-03-02,10,15.80
+Technology,2013-03-03,3,15.13
+Technology,2013-03-04,35,15.80
+Technology,2013-03-05,24,16.00
+Technology,2013-03-06,27,16.20
+Technology,2013-03-07,38,17.40
+Technology,2013-03-08,20,17.83
+Technology,2013-03-09,16,18.23
+Technology,2013-03-10,5,17.37
+Technology,2013-03-11,36,17.47
+Technology,2013-03-12,22,17.17
+Technology,2013-03-13,13,16.77
+Technology,2013-03-14,19,17.10
+Technology,2013-03-15,12,17.47
+Technology,2013-03-16,6,16.87
+Technology,2013-03-18,26,17.33
+Technology,2013-03-19,31,18.13
+Technology,2013-03-20,15,17.87
+Technology,2013-03-21,7,17.53
+Technology,2013-03-22,23,18.17
+Technology,2013-03-23,37,18.80
+Technology,2013-03-25,22,18.87
+Technology,2013-03-26,9,18.53
+Technology,2013-03-27,16,18.83
+Technology,2013-03-28,19,19.13
+Technology,2013-03-29,5,19.10
+Technology,2013-03-30,15,18.93
+Technology,2013-04-01,32,19.50
+Technology,2013-04-02,18,19.27
+Technology,2013-04-03,6,18.90
+Technology,2013-04-04,17,19.13
+Technology,2013-04-05,31,20.07
+Technology,2013-04-06,3,19.00
+Technology,2013-04-07,9,18.50
+Technology,2013-04-08,22,18.33
+Technology,2013-04-09,32,18.13
+Technology,2013-04-10,13,17.90
+Technology,2013-04-11,20,18.03
+Technology,2013-04-12,23,18.63
+Technology,2013-04-13,2,17.50
+Technology,2013-04-14,9,17.07
+Technology,2013-04-15,26,17.50
+Technology,2013-04-16,37,18.10
+Technology,2013-04-17,21,18.40
+Technology,2013-04-18,29,19.17
+Technology,2013-04-19,12,18.70
+Technology,2013-04-20,14,18.13
+Technology,2013-04-22,13,18.07
+Technology,2013-04-23,22,18.57
+Technology,2013-04-24,17,18.37
+Technology,2013-04-25,14,17.60
+Technology,2013-04-26,26,17.73
+Technology,2013-04-27,1,17.47
+Technology,2013-04-29,12,17.33
+Technology,2013-04-30,26,17.57
+Technology,2013-05-01,15,17.90
+Technology,2013-05-02,11,17.77
+Technology,2013-05-03,38,17.97
+Technology,2013-05-04,18,17.97
+Technology,2013-05-05,7,18.00
+Technology,2013-05-06,11,17.80
+Technology,2013-05-07,34,17.90
+Technology,2013-05-08,22,18.53
+Technology,2013-05-09,21,18.93
+Technology,2013-05-10,20,18.87
+Technology,2013-05-11,14,18.27
+Technology,2013-05-13,17,18.40
+Technology,2013-05-14,17,18.30
+Technology,2013-05-15,55,19.37
+Technology,2013-05-16,26,20.17
+Technology,2013-05-17,28,20.80
+Technology,2013-05-18,12,20.33
+Technology,2013-05-19,3,19.20
+Technology,2013-05-20,14,18.97
+Technology,2013-05-21,32,19.07
+Technology,2013-05-22,29,19.63
+Technology,2013-05-23,21,19.87
+Technology,2013-05-24,51,21.13
+Technology,2013-05-27,37,21.63
+Technology,2013-05-28,42,22.47
+Technology,2013-05-29,40,23.33
+Technology,2013-05-30,41,23.83
+Technology,2013-05-31,36,25.00
+Technology,2013-06-01,30,25.60
+Technology,2013-06-02,8,25.00
+Technology,2013-06-03,12,24.90
+Technology,2013-06-04,53,26.30
+Technology,2013-06-05,55,26.87
+Technology,2013-06-06,27,27.17
+Technology,2013-06-07,75,29.43
+Technology,2013-06-08,22,29.80
+Technology,2013-06-10,44,30.13
+Technology,2013-06-11,55,31.23
+Technology,2013-06-12,46,32.07
+Technology,2013-06-13,43,32.83
+Technology,2013-06-14,70,34.70
+Technology,2013-06-15,38,35.40
+Technology,2013-06-16,6,35.03
+Technology,2013-06-17,68,35.47
+Technology,2013-06-18,59,36.57
+Technology,2013-06-19,59,37.60
+Technology,2013-06-20,18,37.80
+Technology,2013-06-21,40,39.03
+Technology,2013-06-22,8,38.83
+Technology,2013-06-23,14,38.23
+Technology,2013-06-24,71,39.63
+Technology,2013-06-25,51,40.63
+Technology,2013-06-26,21,39.63
+Technology,2013-06-27,49,40.03
+Technology,2013-06-28,46,40.17
+Technology,2013-06-29,13,39.27
+Technology,2013-06-30,4,38.03
+Technology,2013-07-01,29,37.80
+Technology,2013-07-02,41,38.17
+Technology,2013-07-03,38,39.17
+Technology,2013-07-04,16,39.30
+Technology,2013-07-05,7,37.77
+Technology,2013-07-06,20,36.60
+Technology,2013-07-08,29,36.67
+Technology,2013-07-09,23,34.93
+Technology,2013-07-10,16,34.73
+Technology,2013-07-11,35,34.43
+Technology,2013-07-12,25,33.43
+Technology,2013-07-13,8,32.17
+Technology,2013-07-14,4,30.87
+Technology,2013-07-15,39,29.83
+Technology,2013-07-16,34,29.70
+Technology,2013-07-17,15,30.00
+Technology,2013-07-18,17,28.30
+Technology,2013-07-19,31,27.37
+Technology,2013-07-20,15,25.90
+Technology,2013-07-21,5,25.47
+Technology,2013-07-22,46,25.67
+Technology,2013-07-23,24,26.20
+Technology,2013-07-24,11,26.10
+Technology,2013-07-25,23,24.50
+Technology,2013-07-26,30,23.80
+Technology,2013-07-27,3,23.20
+Technology,2013-07-28,9,21.87
+Technology,2013-07-29,37,21.57
+Technology,2013-07-30,15,21.63
+Technology,2013-07-31,24,22.30
+Technology,2013-08-01,37,22.57
+Technology,2013-08-02,52,22.93
+Technology,2013-08-03,20,22.33
+Technology,2013-08-04,21,22.50
+Technology,2013-08-05,17,22.83
+Technology,2013-08-06,40,23.50
+Technology,2013-08-07,34,23.67
+Technology,2013-08-08,12,23.30
+Technology,2013-08-09,38,24.03
+Technology,2013-08-10,6,23.07
+Technology,2013-08-11,6,22.43
+Technology,2013-08-12,51,23.87
+Technology,2013-08-13,36,24.93
+Technology,2013-08-14,28,24.57
+Technology,2013-08-15,46,24.97
+Technology,2013-08-16,37,25.70
+Technology,2013-08-17,3,25.23
+Technology,2013-08-19,30,25.20
+Technology,2013-08-20,34,25.83
+Technology,2013-08-21,40,27.00
+Technology,2013-08-22,63,27.57
+Technology,2013-08-23,20,27.43
+Technology,2013-08-24,33,28.17
+Technology,2013-08-26,30,28.40
+Technology,2013-08-27,54,29.20
+Technology,2013-08-28,40,30.43
+Technology,2013-08-29,24,30.93
+Technology,2013-08-30,22,30.43
+Technology,2013-08-31,29,30.90
+Technology,2013-09-02,28,31.03
+Technology,2013-09-03,43,31.23
+Technology,2013-09-04,38,30.77
+Technology,2013-09-05,38,31.37
+Technology,2013-09-06,55,32.50
+Technology,2013-09-07,10,32.27
+Technology,2013-09-09,38,32.20
+Technology,2013-09-10,45,32.57
+Technology,2013-09-11,55,34.00
+Technology,2013-09-12,59,34.70
+Technology,2013-09-13,45,36.00
+Technology,2013-09-14,54,37.60
+Technology,2013-09-15,5,36.07
+Technology,2013-09-16,52,36.60
+Technology,2013-09-17,21,36.37
+Technology,2013-09-18,25,35.67
+Technology,2013-09-19,45,35.93
+Technology,2013-09-20,71,38.20
+Technology,2013-09-21,38,38.47
+Technology,2013-09-23,17,37.90
+Technology,2013-09-24,52,38.30
+Technology,2013-09-25,40,37.53
+Technology,2013-09-26,69,39.17
+Technology,2013-09-27,49,39.70
+Technology,2013-09-28,13,39.13
+Technology,2013-09-30,29,38.30
+Technology,2013-10-01,18,37.57
+Technology,2013-10-02,21,37.47
+Technology,2013-10-03,30,37.73
+Technology,2013-10-04,18,37.37
+Technology,2013-10-05,26,37.30
+Technology,2013-10-06,2,35.93
+Technology,2013-10-07,37,35.90
+Technology,2013-10-08,21,35.33
+Technology,2013-10-09,42,34.90
+Technology,2013-10-10,24,35.37
+Technology,2013-10-11,44,35.57
+Technology,2013-10-12,14,34.53
+Technology,2013-10-13,4,32.83
+Technology,2013-10-14,19,31.50
+Technology,2013-10-15,61,32.03
+Technology,2013-10-16,48,31.83
+Technology,2013-10-17,35,32.83
+Technology,2013-10-18,39,32.40
+Technology,2013-10-21,32,32.77
+Technology,2013-10-22,41,33.30
+Technology,2013-10-23,27,32.70
+Technology,2013-10-24,9,30.63
+Technology,2013-10-25,29,30.33
+Technology,2013-10-26,12,30.17
+Technology,2013-10-28,7,28.67
+Technology,2013-10-29,55,29.17
+Technology,2013-10-30,50,28.53
+Technology,2013-10-31,38,28.17
+Technology,2013-11-01,57,29.63
+Technology,2013-11-02,10,29.00
+Technology,2013-11-04,39,29.70
+Technology,2013-11-05,29,29.97
+Technology,2013-11-06,60,30.97
+Technology,2013-11-07,25,31.20
+Technology,2013-11-08,58,32.27
+Technology,2013-11-09,36,33.40
+Technology,2013-11-10,3,32.27
+Technology,2013-11-11,91,34.60
+Technology,2013-11-12,31,34.23
+Technology,2013-11-13,31,34.47
+Technology,2013-11-14,21,33.70
+Technology,2013-11-15,68,35.50
+Technology,2013-11-16,16,35.90
+Technology,2013-11-17,11,35.63
+Technology,2013-11-18,57,35.50
+Technology,2013-11-19,61,35.93
+Technology,2013-11-20,23,35.53
+Technology,2013-11-21,51,35.93
+Technology,2013-11-22,43,36.30
+Technology,2013-11-23,6,35.13
+Technology,2013-11-24,15,34.73
+Technology,2013-11-25,52,36.17
+Technology,2013-11-26,76,37.73
+Technology,2013-11-27,24,38.13
+Technology,2013-11-28,93,41.00
+Technology,2013-11-29,34,40.30
+Technology,2013-11-30,9,38.93
+Technology,2013-12-01,2,37.73
+Technology,2013-12-02,37,37.07
+Technology,2013-12-03,65,38.90
+Technology,2013-12-04,35,38.77
+Technology,2013-12-05,13,38.23
+Technology,2013-12-06,89,39.20
+Technology,2013-12-07,22,39.10
+Technology,2013-12-08,1,37.20
+Technology,2013-12-09,37,37.23
+Technology,2013-12-10,54,38.93
+Technology,2013-12-11,47,37.47
+Technology,2013-12-12,58,38.37
+Technology,2013-12-13,36,38.53
+Technology,2013-12-14,25,38.67
+Technology,2013-12-16,44,37.87
+Technology,2013-12-17,29,38.30
+Technology,2013-12-18,79,40.57
+Technology,2013-12-19,40,40.00
+Technology,2013-12-20,46,39.50
+Technology,2013-12-21,18,39.33
+Technology,2013-12-22,4,37.77
+Technology,2013-12-23,35,37.50
+Technology,2013-12-24,40,38.63
+Technology,2013-12-25,39,39.43
+Technology,2013-12-26,96,40.90
+Technology,2013-12-27,21,39.07
+Technology,2013-12-28,3,38.37
+Technology,2013-12-29,3,35.37
+Technology,2013-12-30,37,35.47
+Technology,2013-12-31,56,37.03
+Technology,2014-01-01,15,37.47
+Technology,2014-01-02,17,36.80
+Technology,2014-01-03,22,35.37
+Technology,2014-01-04,3,34.30
+Technology,2014-01-06,26,34.73
+Technology,2014-01-07,3,31.87
+Technology,2014-01-08,32,32.20
+Technology,2014-01-09,39,33.47
+Technology,2014-01-10,20,32.90
+Technology,2014-01-11,4,31.23
+Technology,2014-01-13,7,29.90
+Technology,2014-01-14,42,29.37
+Technology,2014-01-15,52,29.90
+Technology,2014-01-16,45,30.57
+Technology,2014-01-17,24,29.90
+Technology,2014-01-18,5,29.10
+Technology,2014-01-20,14,26.93
+Technology,2014-01-21,35,26.77
+Technology,2014-01-22,33,26.33
+Technology,2014-01-23,26,26.60
+Technology,2014-01-24,24,27.27
+Technology,2014-01-25,14,26.57
+Technology,2014-01-26,3,25.33
+Technology,2014-01-27,21,24.73
+Technology,2014-01-28,21,22.23
+Technology,2014-01-29,38,22.80
+Technology,2014-01-30,13,23.13
+Technology,2014-01-31,41,24.40
+Technology,2014-02-03,26,24.03
+Technology,2014-02-04,16,22.70
+Technology,2014-02-05,13,22.63
+Technology,2014-02-06,12,22.47
+Technology,2014-02-07,49,23.37
+Technology,2014-02-08,3,23.37
+Technology,2014-02-10,35,23.67
+Technology,2014-02-11,30,24.57
+Technology,2014-02-12,28,24.43
+Technology,2014-02-13,52,24.87
+Technology,2014-02-14,25,25.03
+Technology,2014-02-15,1,24.93
+Technology,2014-02-16,7,24.93
+Technology,2014-02-17,28,24.47
+Technology,2014-02-18,43,24.17
+Technology,2014-02-19,16,23.20
+Technology,2014-02-20,14,22.87
+Technology,2014-02-21,23,23.47
+Technology,2014-02-22,9,23.30
+Technology,2014-02-24,40,23.47
+Technology,2014-02-25,24,23.17
+Technology,2014-02-26,5,22.47
+Technology,2014-02-27,50,23.33
+Technology,2014-02-28,34,24.00
+Technology,2014-03-01,13,24.33
+Technology,2014-03-02,2,23.70
+Technology,2014-03-03,20,23.67
+Technology,2014-03-04,51,24.10
+Technology,2014-03-05,16,24.20
+Technology,2014-03-06,30,23.83
+Technology,2014-03-07,6,23.17
+Technology,2014-03-08,7,22.87
+Technology,2014-03-10,20,23.10
+Technology,2014-03-11,31,23.73
+Technology,2014-03-12,28,23.03
+Technology,2014-03-13,16,23.47
+Technology,2014-03-14,24,23.10
+Technology,2014-03-15,33,23.20
+Technology,2014-03-17,78,24.87
+Technology,2014-03-18,38,24.40
+Technology,2014-03-19,25,24.40
+Technology,2014-03-20,28,25.30
+Technology,2014-03-21,36,26.27
+Technology,2014-03-22,19,25.97
+Technology,2014-03-24,20,25.20
+Technology,2014-03-25,15,25.17
+Technology,2014-03-26,39,26.00
+Technology,2014-03-27,33,26.33
+Technology,2014-03-28,35,27.20
+Technology,2014-03-29,2,25.93
+Technology,2014-03-30,2,25.20
+Technology,2014-03-31,17,25.60
+Technology,2014-04-01,37,25.17
+Technology,2014-04-02,21,24.73
+Technology,2014-04-03,30,25.30
+Technology,2014-04-04,6,25.43
+Technology,2014-04-05,23,25.53
+Technology,2014-04-06,2,23.90
+Technology,2014-04-07,17,23.93
+Technology,2014-04-08,24,23.73
+Technology,2014-04-09,15,24.03
+Technology,2014-04-10,30,24.80
+Technology,2014-04-11,25,24.97
+Technology,2014-04-12,10,24.27
+Technology,2014-04-13,4,23.47
+Technology,2014-04-14,10,23.27
+Technology,2014-04-15,23,23.23
+Technology,2014-04-16,38,23.40
+Technology,2014-04-17,47,22.37
+Technology,2014-04-18,22,21.83
+Technology,2014-04-19,11,21.37
+Technology,2014-04-20,5,20.60
+Technology,2014-04-21,44,20.87
+Technology,2014-04-22,20,20.90
+Technology,2014-04-23,37,21.47
+Technology,2014-04-24,41,22.33
+Technology,2014-04-25,35,22.20
+Technology,2014-04-26,16,21.63
+Technology,2014-04-27,7,20.70
+Technology,2014-04-28,36,21.83
+Technology,2014-04-29,16,22.30
+Technology,2014-04-30,6,21.93
+Technology,2014-05-01,25,21.53
+Technology,2014-05-02,28,21.77
+Technology,2014-05-03,17,21.33
+Technology,2014-05-04,4,21.27
+Technology,2014-05-05,31,21.53
+Technology,2014-05-06,4,21.60
+Technology,2014-05-07,38,22.30
+Technology,2014-05-08,64,23.63
+Technology,2014-05-09,24,23.93
+Technology,2014-05-10,31,23.97
+Technology,2014-05-11,6,23.33
+Technology,2014-05-12,23,23.77
+Technology,2014-05-13,15,24.13
+Technology,2014-05-14,3,23.90
+Technology,2014-05-15,31,24.17
+Technology,2014-05-16,37,24.13
+Technology,2014-05-17,4,22.70
+Technology,2014-05-18,1,22.00
+Technology,2014-05-19,76,24.17
+Technology,2014-05-20,52,25.73
+Technology,2014-05-21,14,24.73
+Technology,2014-05-22,13,24.50
+Technology,2014-05-23,7,23.50
+Technology,2014-05-24,21,22.83
+Technology,2014-05-26,17,22.23
+Technology,2014-05-27,51,23.40
+Technology,2014-05-28,37,24.40
+Technology,2014-05-29,55,25.03
+Technology,2014-05-30,17,25.07
+Technology,2014-05-31,26,25.73
+Technology,2014-06-01,4,25.03
+Technology,2014-06-02,37,25.33
+Technology,2014-06-03,35,25.93
+Technology,2014-06-04,62,27.87
+Technology,2014-06-05,47,28.40
+Technology,2014-06-06,39,29.57
+Technology,2014-06-07,13,28.73
+Technology,2014-06-08,5,26.77
+Technology,2014-06-09,55,27.80
+Technology,2014-06-10,65,28.93
+Technology,2014-06-11,64,30.87
+Technology,2014-06-12,33,31.20
+Technology,2014-06-13,56,32.57
+Technology,2014-06-14,9,32.77
+Technology,2014-06-16,55,33.57
+Technology,2014-06-17,42,33.73
+Technology,2014-06-18,87,36.50
+Technology,2014-06-19,43,37.90
+Technology,2014-06-20,34,36.50
+Technology,2014-06-21,19,35.40
+Technology,2014-06-23,26,35.80
+Technology,2014-06-24,76,37.90
+Technology,2014-06-25,38,38.93
+Technology,2014-06-26,62,40.30
+Technology,2014-06-27,73,42.17
+Technology,2014-06-28,17,41.03
+Technology,2014-06-29,5,39.97
+Technology,2014-06-30,64,40.27
+Technology,2014-07-01,14,40.17
+Technology,2014-07-02,18,39.90
+Technology,2014-07-03,30,40.77
+Technology,2014-07-04,72,41.93
+Technology,2014-07-05,11,41.13
+Technology,2014-07-06,4,39.20
+Technology,2014-07-07,52,39.37
+Technology,2014-07-08,31,39.10
+Technology,2014-07-09,38,39.93
+Technology,2014-07-10,43,41.20
+Technology,2014-07-11,24,40.17
+Technology,2014-07-12,20,38.67
+Technology,2014-07-13,2,36.60
+Technology,2014-07-14,23,36.27
+Technology,2014-07-15,25,35.23
+Technology,2014-07-16,25,35.77
+Technology,2014-07-17,23,34.70
+Technology,2014-07-18,10,33.63
+Technology,2014-07-19,9,31.03
+Technology,2014-07-21,13,30.03
+Technology,2014-07-22,56,30.77
+Technology,2014-07-23,11,30.50
+Technology,2014-07-24,22,30.37
+Technology,2014-07-25,8,28.10
+Technology,2014-07-26,17,27.40
+Technology,2014-07-27,14,25.80
+Technology,2014-07-28,38,24.63
+Technology,2014-07-29,48,25.67
+Technology,2014-07-30,33,26.60
+Technology,2014-07-31,34,25.60
+Technology,2014-08-01,38,26.40
+Technology,2014-08-02,65,27.97
+Technology,2014-08-03,8,27.23
+Technology,2014-08-04,41,26.20
+Technology,2014-08-05,34,26.97
+Technology,2014-08-06,58,28.77
+Technology,2014-08-07,47,28.60
+Technology,2014-08-08,52,29.30
+Technology,2014-08-09,27,28.93
+Technology,2014-08-11,77,30.07
+Technology,2014-08-12,43,30.70
+Technology,2014-08-13,68,32.30
+Technology,2014-08-14,35,33.40
+Technology,2014-08-15,51,34.33
+Technology,2014-08-16,14,33.97
+Technology,2014-08-18,62,35.20
+Technology,2014-08-19,36,35.63
+Technology,2014-08-20,58,37.23
+Technology,2014-08-21,33,38.03
+Technology,2014-08-22,36,38.80
+Technology,2014-08-23,42,38.33
+Technology,2014-08-24,16,38.50
+Technology,2014-08-25,21,38.47
+Technology,2014-08-26,65,40.37
+Technology,2014-08-27,39,41.10
+Technology,2014-08-28,62,42.70
+Technology,2014-08-29,48,43.03
+Technology,2014-08-30,9,41.73
+Technology,2014-09-01,56,42.50
+Technology,2014-09-02,37,42.60
+Technology,2014-09-03,83,44.10
+Technology,2014-09-04,58,43.87
+Technology,2014-09-05,46,45.13
+Technology,2014-09-06,35,44.93
+Technology,2014-09-07,2,43.87
+Technology,2014-09-08,40,43.27
+Technology,2014-09-09,49,43.33
+Technology,2014-09-10,40,42.93
+Technology,2014-09-11,49,43.67
+Technology,2014-09-12,62,43.17
+Technology,2014-09-13,21,42.43
+Technology,2014-09-15,44,41.63
+Technology,2014-09-16,78,43.07
+Technology,2014-09-17,67,43.60
+Technology,2014-09-18,84,45.93
+Technology,2014-09-19,54,45.67
+Technology,2014-09-20,18,45.07
+Technology,2014-09-21,18,43.73
+Technology,2014-09-22,33,43.73
+Technology,2014-09-23,45,44.03
+Technology,2014-09-24,37,43.87
+Technology,2014-09-25,76,45.87
+Technology,2014-09-26,42,46.57
+Technology,2014-09-27,30,45.40
+Technology,2014-09-28,9,44.40
+Technology,2014-09-29,70,44.67
+Technology,2014-09-30,36,44.27
+Technology,2014-10-01,25,44.80
+Technology,2014-10-02,82,45.67
+Technology,2014-10-03,73,46.87
+Technology,2014-10-04,18,44.70
+Technology,2014-10-05,11,43.13
+Technology,2014-10-06,86,44.47
+Technology,2014-10-07,56,45.17
+Technology,2014-10-08,49,46.73
+Technology,2014-10-09,47,46.97
+Technology,2014-10-10,43,46.77
+Technology,2014-10-11,8,45.70
+Technology,2014-10-12,3,44.17
+Technology,2014-10-13,94,45.23
+Technology,2014-10-14,40,45.87
+Technology,2014-10-15,23,45.17
+Technology,2014-10-16,28,43.50
+Technology,2014-10-17,85,44.10
+Technology,2014-10-18,30,42.30
+Technology,2014-10-19,3,40.60
+Technology,2014-10-20,35,41.17
+Technology,2014-10-21,27,41.47
+Technology,2014-10-22,48,41.97
+Technology,2014-10-23,50,42.13
+Technology,2014-10-24,40,42.23
+Technology,2014-10-25,5,39.87
+Technology,2014-10-27,39,39.77
+Technology,2014-10-28,55,40.60
+Technology,2014-10-29,54,42.10
+Technology,2014-10-30,39,41.07
+Technology,2014-10-31,33,40.97
+Technology,2014-11-01,15,40.63
+Technology,2014-11-02,2,37.97
+Technology,2014-11-03,44,37.00
+Technology,2014-11-04,114,40.20
+Technology,2014-11-05,56,41.70
+Technology,2014-11-06,51,40.53
+Technology,2014-11-07,33,39.77
+Technology,2014-11-08,70,40.47
+Technology,2014-11-09,5,39.07
+Technology,2014-11-10,79,40.27
+Technology,2014-11-11,58,41.93
+Technology,2014-11-12,52,43.57
+Technology,2014-11-13,74,42.90
+Technology,2014-11-14,76,44.10
+Technology,2014-11-15,27,44.23
+Technology,2014-11-16,9,43.60
+Technology,2014-11-17,69,43.07
+Technology,2014-11-18,110,45.73
+Technology,2014-11-19,55,47.47
+Technology,2014-11-20,79,48.93
+Technology,2014-11-21,51,49.73
+Technology,2014-11-22,37,49.37
+Technology,2014-11-23,13,48.13
+Technology,2014-11-24,64,48.93
+Technology,2014-11-25,75,51.27
+Technology,2014-11-26,75,52.47
+Technology,2014-11-27,87,53.53
+Technology,2014-11-28,82,54.47
+Technology,2014-11-29,35,54.33
+Technology,2014-12-01,59,55.20
+Technology,2014-12-02,89,57.67
+Technology,2014-12-03,67,59.83
+Technology,2014-12-04,78,60.97
+Technology,2014-12-05,29,58.13
+Technology,2014-12-06,17,56.83
+Technology,2014-12-07,17,55.70
+Technology,2014-12-08,82,57.33
+Technology,2014-12-09,44,56.47
+Technology,2014-12-10,53,58.07
+Technology,2014-12-11,73,57.87
+Technology,2014-12-12,64,58.07
+Technology,2014-12-13,18,56.93
+Technology,2014-12-14,2,54.53
+Technology,2014-12-15,60,54.00
+Technology,2014-12-16,19,53.73
+Technology,2014-12-17,56,55.30
+Technology,2014-12-18,13,53.43
+Technology,2014-12-19,57,51.67
+Technology,2014-12-20,4,49.97
+Technology,2014-12-22,52,49.07
+Technology,2014-12-23,74,49.83
+Technology,2014-12-24,53,50.37
+Technology,2014-12-25,58,51.87
+Technology,2014-12-26,102,53.13
+Technology,2014-12-27,40,51.97
+Technology,2014-12-28,8,49.73
+Technology,2014-12-29,46,48.37
+Technology,2014-12-30,39,46.93
+Technology,2014-12-31,60,47.77

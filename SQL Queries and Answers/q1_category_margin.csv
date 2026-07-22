@@ -1,0 +1,7 @@
+category,price_type,num_transactions,total_revenue,total_profit,margin_pct
+Furniture,Discounted,5380,2185715,-178830.7,-8.18
+Furniture,"Full Price",4496,1925169,465612.96,24.19
+"Office Supplies",Discounted,12064,1409303,-90251.45,-6.4
+"Office Supplies","Full Price",19209,2378027,608725.29,25.6
+Technology,Discounted,4837,2055153,-32578.3,-1.59
+Technology,"Full Price",5304,2689538,696357.03,25.89
